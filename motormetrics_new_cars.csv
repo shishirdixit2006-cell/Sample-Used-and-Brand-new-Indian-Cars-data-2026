@@ -1,0 +1,134 @@
+brand,model,variant,body_type,price_ex_showroom_inr,fuel_type,engine_cc,cylinders,max_power_bhp,max_torque_nm,transmission,gears,mileage_kmpl,fuel_tank_capacity_l,seating_capacity,boot_space_l,safety_airbags
+Honda,Amaze,V MT,Compact Sedan,765000,Petrol,1199,4,88.5,110.0,Manual,5,18.65,35,5,416,6
+Honda,Amaze,VX CVT,Compact Sedan,940000,Petrol,1199,4,88.5,110.0,CVT,7,19.46,35,5,416,6
+Honda,Amaze,VX MT,Compact Sedan,865000,Petrol,1199,4,88.5,110.0,Manual,5,18.65,35,5,416,6
+Honda,Amaze,ZX CVT,Compact Sedan,1000000,Petrol,1199,4,88.5,110.0,CVT,7,19.46,35,5,416,6
+Honda,City,SV Petrol MT,Sedan,1208000,Petrol,1498,4,119.3,145.0,Manual,6,17.8,40,5,506,4
+Honda,City,VX MT (4th Gen),Sedan,1208000,Petrol,1498,4,119.3,145.0,Manual,6,17.8,40,5,506,4
+Honda,City,ZX CVT (5th Gen),Sedan,1208000,Petrol,1498,4,119.3,145.0,Manual,6,17.8,40,5,506,4
+Honda,City,ZX Petrol CVT,Sedan,1647000,Petrol,1498,4,119.3,145.0,CVT,7,18.4,40,5,506,6
+Honda,City,ZX Plus Hybrid e:HEV,Sedan,2136000,Hybrid,1498,4,124.3,253.0,e-CVT,1,27.26,40,5,410,6
+Honda,Elevate,SV MT,Compact SUV,1191000,Petrol,1498,4,119.3,145.0,Manual,6,15.31,40,5,458,6
+Honda,Elevate,ZX CVT,Compact SUV,1643000,Petrol,1498,4,119.3,145.0,CVT,7,16.92,40,5,458,6
+Hyundai,Alcazar,Executive 1.5 Turbo MT 7S,Mid-size SUV,1499000,Petrol,1482,4,157.8,253.0,Manual,6,17.5,50,7,180,6
+Hyundai,Alcazar,Platinum 1.5 CRDi MT 7S,Mid-size SUV,1901000,Diesel,1493,4,114.4,250.0,Manual,6,20.4,50,7,180,6
+Hyundai,Alcazar,Prestige 1.5 Turbo DCT 7S,Mid-size SUV,1808000,Petrol,1482,4,157.8,253.0,DCT,7,18.0,50,7,180,6
+Hyundai,Alcazar,Signature 1.5 CRDi AT 6S,Mid-size SUV,2115000,Diesel,1493,4,114.4,250.0,Automatic,6,18.1,50,6,180,6
+Hyundai,Creta,1.6 SX CRDi,Compact SUV,1100000,Petrol,1497,4,113.4,143.8,Manual,6,17.4,50,5,433,6
+Hyundai,Creta,E 1.5 MT,Compact SUV,1100000,Petrol,1497,4,113.4,143.8,Manual,6,17.4,50,5,433,6
+Hyundai,Creta,SX (O) 1.5 CRDi AT,Compact SUV,2015000,Diesel,1493,4,114.4,250.0,Automatic,6,19.1,50,5,433,6
+Hyundai,Creta,SX (O) 1.5 IVT,Compact SUV,1888000,Petrol,1497,4,113.4,143.8,CVT,6,17.7,50,5,433,6
+Hyundai,Creta,SX (O) 1.5 Turbo DCT,Compact SUV,2015000,Petrol,1482,4,157.8,253.0,DCT,7,18.4,50,5,433,6
+Hyundai,Creta,SX (O) Diesel AT,Compact SUV,1100000,Petrol,1497,4,113.4,143.8,Manual,6,17.4,50,5,433,6
+Hyundai,Creta,SX Petrol MT,Compact SUV,1100000,Petrol,1497,4,113.4,143.8,Manual,6,17.4,50,5,433,6
+Hyundai,Grand i10 Nios,Asta AMT,Hatchback,856000,Petrol,1197,4,81.8,113.8,AMT,5,20.1,37,5,260,6
+Hyundai,Grand i10 Nios,Era MT,Hatchback,592000,Petrol,1197,4,81.8,113.8,Manual,5,20.7,37,5,260,6
+Hyundai,Grand i10 Nios,Magna CNG MT,Hatchback,768000,CNG,1197,4,68.0,95.2,Manual,5,27.0,60,5,180,6
+Hyundai,Grand i10 Nios,Sportz AMT,Hatchback,592000,Petrol,1197,4,81.8,113.8,Manual,5,20.7,37,5,260,6
+Hyundai,Venue,E 1.2 MT,Compact SUV,794000,Petrol,1197,4,81.8,113.8,Manual,5,17.5,45,5,350,6
+Hyundai,Venue,SX (O) 1.0 Turbo DCT,Compact SUV,1338000,Petrol,998,3,118.4,172.0,DCT,7,18.3,45,5,350,6
+Hyundai,Venue,SX (O) 1.5 CRDi MT,Compact SUV,1329000,Diesel,1493,4,114.4,250.0,Manual,6,22.7,45,5,350,6
+Hyundai,Verna,1.6 CRDi SX,Sedan,1100000,Petrol,1497,4,113.4,143.8,Manual,6,18.6,45,5,528,6
+Hyundai,Verna,EX 1.5 MT,Sedan,1100000,Petrol,1497,4,113.4,143.8,Manual,6,18.6,45,5,528,6
+Hyundai,Verna,SX (O) 1.5 IVT,Sedan,1623000,Petrol,1497,4,113.4,143.8,CVT,6,19.6,45,5,528,6
+Hyundai,Verna,SX (O) 1.5 Turbo DCT,Sedan,1742000,Petrol,1482,4,157.8,253.0,DCT,7,20.6,45,5,528,6
+Hyundai,Verna,SX (O) Turbo DCT,Sedan,1100000,Petrol,1497,4,113.4,143.8,Manual,6,18.6,45,5,528,6
+Hyundai,i20,Asta (O) 1.2 IVT,Hatchback,1121000,Petrol,1197,4,86.8,114.7,CVT,6,17.4,37,5,311,6
+Hyundai,i20,Era 1.2 MT,Hatchback,704000,Petrol,1197,4,81.8,114.7,Manual,5,16.0,37,5,311,6
+Kia,Carens,Luxury Plus 1.5 CRDi AT 6S,MPV,1967000,Diesel,1493,4,114.4,250.0,Automatic,6,18.4,45,6,216,6
+Kia,Carens,Premium 1.5 Petrol MT 7S,MPV,1052000,Petrol,1497,4,113.4,144.0,Manual,6,15.7,45,7,216,6
+Kia,Carens,Prestige Plus 1.5 Turbo iMT 7S,MPV,1495000,Petrol,1482,4,157.8,253.0,Clutchless Manual (iMT),6,16.5,45,7,216,6
+Kia,Seltos,GTX Plus 1.4 Turbo DCT,Compact SUV,1090000,Petrol,1497,4,113.4,144.0,Manual,6,17.0,50,5,433,6
+Kia,Seltos,GTX Plus 1.5 Turbo DCT,Compact SUV,2000000,Petrol,1482,4,157.8,253.0,DCT,7,17.9,50,5,433,6
+Kia,Seltos,HTE 1.5 MT,Compact SUV,1090000,Petrol,1497,4,113.4,144.0,Manual,6,17.0,50,5,433,6
+Kia,Seltos,HTK Plus Diesel MT,Compact SUV,1090000,Petrol,1497,4,113.4,144.0,Manual,6,17.0,50,5,433,6
+Kia,Seltos,X-Line 1.5 CRDi AT,Compact SUV,2035000,Diesel,1493,4,114.4,250.0,Automatic,6,19.1,50,5,433,6
+Kia,Sonet,GTX Plus 1.0 Turbo DCT,Compact SUV,1470000,Petrol,998,3,118.4,172.0,DCT,7,19.2,45,5,385,6
+Kia,Sonet,HTE 1.2 MT,Compact SUV,799000,Petrol,1197,4,81.8,115.0,Manual,5,18.83,45,5,385,6
+Kia,Sonet,HTX 1.0 Turbo iMT,Compact SUV,799000,Petrol,1197,4,81.8,115.0,Manual,5,18.83,45,5,385,6
+Kia,Sonet,X-Line 1.5 CRDi AT,Compact SUV,1577000,Diesel,1493,4,114.4,250.0,Automatic,6,18.6,45,5,385,6
+MG,Gloster,Savvy 6S 4x4 Twin Turbo,Full-size SUV,4387000,Diesel,1996,4,212.5,478.5,Automatic,8,12.04,75,6,343,6
+MG,Gloster,Sharp 7S 4x2,Full-size SUV,3880000,Diesel,1996,4,158.8,373.5,Automatic,8,13.92,75,7,343,6
+Mahindra,Scorpio-N,Z2 Petrol MT 7S,Mid-size SUV,1385000,Petrol,1997,4,200.0,370.0,Manual,6,12.12,57,7,460,2
+Mahindra,Scorpio-N,Z4 Diesel MT,Mid-size SUV,1385000,Petrol,1997,4,200.0,370.0,Manual,6,12.12,57,7,460,2
+Mahindra,Scorpio-N,Z8 L Diesel 4x4 AT,Mid-size SUV,1385000,Petrol,1997,4,200.0,370.0,Manual,6,12.12,57,7,460,2
+Mahindra,Scorpio-N,Z8 L Diesel AT 4x4 7S,Mid-size SUV,2454000,Diesel,2184,4,172.4,400.0,Automatic,6,14.05,57,7,460,6
+Mahindra,XUV 3XO,AX5 L 1.5 CRDe AT Diesel,Compact SUV,1389000,Diesel,1497,4,115.0,300.0,Automatic,6,20.6,42,5,364,6
+Mahindra,XUV 3XO,AX7 L 1.2 TGDi AT,Compact SUV,1549000,Petrol,1197,3,128.7,230.0,Automatic,6,18.2,42,5,364,6
+Mahindra,XUV 3XO,MX1 1.2 TCMPFi MT,Compact SUV,779000,Petrol,1197,3,109.9,200.0,Manual,6,18.89,42,5,364,6
+Mahindra,XUV700,AX5 Petrol MT,Mid-size SUV,1399000,Petrol,1997,4,197.1,380.0,Manual,6,13.0,60,5,460,2
+Mahindra,XUV700,AX7 L Diesel AT AWD,Mid-size SUV,1399000,Petrol,1997,4,197.1,380.0,Manual,6,13.0,60,5,460,2
+Mahindra,XUV700,AX7 L Diesel AT AWD 7S,Mid-size SUV,2699000,Diesel,2184,4,182.4,450.0,Automatic,6,14.5,60,7,240,7
+Mahindra,XUV700,MX Petrol MT 5S,Mid-size SUV,1399000,Petrol,1997,4,197.1,380.0,Manual,6,13.0,60,5,460,2
+Maruti Suzuki,Baleno,Alpha AMT,Hatchback,960000,Petrol,1197,4,88.5,113.0,AMT,5,22.94,37,5,318,6
+Maruti Suzuki,Baleno,Alpha CVT,Hatchback,599000,Petrol,1197,4,88.5,113.0,Manual,5,22.35,37,5,318,2
+Maruti Suzuki,Baleno,Delta,Hatchback,599000,Petrol,1197,4,88.5,113.0,Manual,5,22.35,37,5,318,2
+Maruti Suzuki,Baleno,Delta AMT,Hatchback,750000,Petrol,1197,4,88.5,113.0,AMT,5,22.94,37,5,318,2
+Maruti Suzuki,Baleno,Delta CNG MT,Hatchback,792000,CNG,1197,4,76.4,98.5,Manual,5,30.61,55,5,230,2
+Maruti Suzuki,Baleno,Sigma MT,Hatchback,599000,Petrol,1197,4,88.5,113.0,Manual,5,22.35,37,5,318,2
+Maruti Suzuki,Brezza,LXi MT,Compact SUV,834000,Petrol,1462,4,101.6,136.8,Manual,5,17.38,48,5,328,2
+Maruti Suzuki,Brezza,VDi Diesel,Compact SUV,834000,Petrol,1462,4,101.6,136.8,Manual,5,17.38,48,5,328,2
+Maruti Suzuki,Brezza,VXi CNG MT,Compact SUV,1065000,CNG,1462,4,86.6,121.5,Manual,5,25.51,55,5,240,2
+Maruti Suzuki,Brezza,ZXi AT,Compact SUV,834000,Petrol,1462,4,101.6,136.8,Manual,5,17.38,48,5,328,2
+Maruti Suzuki,Brezza,ZXi Plus AT,Compact SUV,1398000,Petrol,1462,4,101.6,136.8,Automatic,6,19.8,48,5,328,6
+Maruti Suzuki,Ciaz,Alpha AT,Sedan,1229000,Petrol,1462,4,103.2,138.0,Automatic,4,20.04,43,5,510,2
+Maruti Suzuki,Ciaz,Sigma MT,Sedan,940000,Petrol,1462,4,103.2,138.0,Manual,5,20.65,43,5,510,2
+Maruti Suzuki,Ertiga,LXi MT,MPV,869000,Petrol,1462,4,101.6,136.8,Manual,5,20.51,45,7,209,2
+Maruti Suzuki,Ertiga,VXi CNG MT,MPV,1078000,CNG,1462,4,86.6,121.5,Manual,5,26.11,60,7,209,2
+Maruti Suzuki,Ertiga,ZXi Plus AT,MPV,1303000,Petrol,1462,4,101.6,136.8,Automatic,6,20.3,45,7,209,4
+Maruti Suzuki,Grand Vitara,Alpha Plus Intelligent Hybrid e-CVT,Compact SUV,2009000,Hybrid,1490,3,114.4,141.0,e-CVT,1,27.97,45,5,255,6
+Maruti Suzuki,Grand Vitara,Delta CNG MT,Compact SUV,1315000,CNG,1462,4,86.6,121.5,Manual,5,26.6,55,5,265,2
+Maruti Suzuki,Grand Vitara,Sigma Smart Hybrid MT,Compact SUV,1099000,Petrol,1462,4,101.6,136.8,Manual,5,21.11,45,5,373,2
+Maruti Suzuki,Swift,LXi MT,Hatchback,649000,Petrol,1197,3,80.5,111.7,Manual,5,24.8,37,5,265,6
+Maruti Suzuki,Swift,VDi Diesel,Hatchback,649000,Petrol,1197,3,80.5,111.7,Manual,5,24.8,37,5,265,6
+Maruti Suzuki,Swift,VXi,Hatchback,649000,Petrol,1197,3,80.5,111.7,Manual,5,24.8,37,5,265,6
+Maruti Suzuki,Swift,VXi CNG MT,Hatchback,819000,CNG,1197,3,68.8,101.8,Manual,5,32.85,55,5,160,6
+Maruti Suzuki,Swift,ZXi AMT,Hatchback,649000,Petrol,1197,3,80.5,111.7,Manual,5,24.8,37,5,265,6
+Maruti Suzuki,Swift,ZXi Plus AMT,Hatchback,959000,Petrol,1197,3,80.5,111.7,AMT,5,25.75,37,5,265,6
+Maruti Suzuki,WagonR,LXi 1.0 MT,Hatchback,555000,Petrol,998,3,65.7,89.0,Manual,5,24.35,32,5,341,2
+Maruti Suzuki,WagonR,LXi CNG MT,Hatchback,645000,CNG,998,3,55.9,82.1,Manual,5,34.05,60,5,200,2
+Maruti Suzuki,WagonR,LXi Petrol,Hatchback,555000,Petrol,998,3,65.7,89.0,Manual,5,24.35,32,5,341,2
+Maruti Suzuki,WagonR,VXi CNG,Hatchback,555000,Petrol,998,3,65.7,89.0,Manual,5,24.35,32,5,341,2
+Maruti Suzuki,WagonR,ZXi Plus 1.2 AGS,Hatchback,725000,Petrol,1197,4,88.5,113.0,AMT,5,25.19,32,5,341,2
+Renault,Kwid,Climber AMT,Hatchback,645000,Petrol,999,3,67.0,91.0,AMT,5,22.3,28,5,279,2
+Renault,Kwid,RXE 1.0 MT,Hatchback,469000,Petrol,999,3,67.0,91.0,Manual,5,21.7,28,5,279,2
+Renault,Kwid,RXT 1.0,Hatchback,469000,Petrol,999,3,67.0,91.0,Manual,5,21.7,28,5,279,2
+Skoda,Kushaq,Classic 1.0 TSI MT,Compact SUV,1089000,Petrol,999,3,113.9,178.0,Manual,6,19.76,50,5,385,6
+Skoda,Kushaq,Prestige 1.5 TSI DSG,Compact SUV,1879000,Petrol,1498,4,147.9,250.0,DCT,7,18.86,50,5,385,6
+Skoda,Slavia,Classic 1.0 TSI MT,Sedan,1069000,Petrol,999,3,113.9,178.0,Manual,6,20.32,45,5,521,6
+Skoda,Slavia,Prestige 1.5 TSI DSG,Sedan,1869000,Petrol,1498,4,147.9,250.0,DCT,7,19.36,45,5,521,6
+Skoda,Slavia,Style 1.0 TSI MT,Sedan,1069000,Petrol,999,3,113.9,178.0,Manual,6,20.32,45,5,521,6
+Tata,Harrier,Fearless Plus Dark AT,Mid-size SUV,2644000,Diesel,1956,4,167.6,350.0,Automatic,6,14.6,50,5,445,7
+Tata,Harrier,Smart MT,Mid-size SUV,1549000,Diesel,1956,4,167.6,350.0,Manual,6,16.8,50,5,445,6
+Tata,Nexon,Fearless Plus 1.2 DCA,Compact SUV,1480000,Petrol,1199,3,118.4,170.0,DCT,7,17.01,44,5,382,6
+Tata,Nexon,Fearless Plus 1.5 AMT Diesel,Compact SUV,1580000,Diesel,1497,4,113.4,260.0,AMT,6,24.08,44,5,382,6
+Tata,Nexon,Smart 1.2 Revotron MT,Compact SUV,800000,Petrol,1199,3,118.4,170.0,Manual,5,17.44,44,5,382,6
+Tata,Nexon,XMA AMT Diesel,Compact SUV,800000,Petrol,1199,3,118.4,170.0,Manual,5,17.44,44,5,382,6
+Tata,Nexon,XZ Plus Petrol,Compact SUV,800000,Petrol,1199,3,118.4,170.0,Manual,5,17.44,44,5,382,6
+Tata,Nexon EV,Creative Plus Medium Range,Electric SUV,1449000,Electric,0,0,127.4,215.0,Automatic (Single Speed),1,325.0,30,5,350,6
+Tata,Nexon EV,Empowered Plus Long Range 45kWh,Electric SUV,1719000,Electric,0,0,142.6,215.0,Automatic (Single Speed),1,489.0,45,5,350,6
+Tata,Punch,Accomplished Dazzle,Micro SUV,613000,Petrol,1199,3,86.6,115.0,Manual,5,20.09,37,5,366,2
+Tata,Punch,Adventure AMT,Micro SUV,613000,Petrol,1199,3,86.6,115.0,Manual,5,20.09,37,5,366,2
+Tata,Punch,Adventure iCNG MT,Micro SUV,795000,CNG,1199,3,72.4,103.0,Manual,5,26.99,60,5,210,2
+Tata,Punch,Creative Flagship AMT,Micro SUV,1020000,Petrol,1199,3,86.6,115.0,AMT,5,18.8,37,5,366,6
+Tata,Punch,Pure MT,Micro SUV,613000,Petrol,1199,3,86.6,115.0,Manual,5,20.09,37,5,366,2
+Tata,Tiago,XE MT,Hatchback,565000,Petrol,1199,3,84.8,113.0,Manual,5,19.01,35,5,242,2
+Tata,Tiago,XT iCNG AMT,Hatchback,790000,CNG,1199,3,72.4,95.0,AMT,5,28.06,60,5,180,2
+Tata,Tiago,XZ Plus AMT,Hatchback,788000,Petrol,1199,3,84.8,113.0,AMT,5,19.0,35,5,242,2
+Tata,Tiago EV,XE Medium Range,Electric Hatchback,799000,Electric,0,0,60.3,110.0,Automatic (Single Speed),1,250.0,19,5,240,2
+Tata,Tiago EV,XZ Plus Tech LUX Long Range,Electric Hatchback,1189000,Electric,0,0,73.7,114.0,Automatic (Single Speed),1,315.0,24,5,240,2
+Toyota,Fortuner,4x2 AT Diesel,Full-size SUV,3821000,Diesel,2755,4,201.2,500.0,Automatic,6,14.4,80,7,296,7
+Toyota,Fortuner,4x2 MT Petrol,Full-size SUV,3343000,Petrol,2694,4,163.6,245.0,Manual,5,10.3,80,7,296,7
+Toyota,Fortuner,4x4 AT Diesel Legender,Full-size SUV,4764000,Diesel,2755,4,201.2,500.0,Automatic,6,14.2,80,7,296,7
+Toyota,Fortuner,4x4 MT Diesel,Full-size SUV,3343000,Petrol,2694,4,163.6,245.0,Manual,5,10.3,80,7,296,7
+Toyota,Innova Crysta,2.4 ZX 7S MT,MPV,1999000,Diesel,2393,4,147.5,343.0,Manual,5,15.1,55,7,300,3
+Toyota,Innova Crysta,2.8 GX AT 8S,MPV,1999000,Diesel,2393,4,147.5,343.0,Manual,5,15.1,55,7,300,3
+Toyota,Innova Crysta,GX 7S MT,MPV,1999000,Diesel,2393,4,147.5,343.0,Manual,5,15.1,55,7,300,3
+Toyota,Innova Crysta,ZX 7S MT,MPV,2630000,Diesel,2393,4,147.5,343.0,Manual,5,15.1,55,7,300,7
+Toyota,Innova Hycross,GX 7S CVT,MPV,1977000,Petrol,1987,4,172.0,205.0,CVT,6,16.13,52,7,300,2
+Toyota,Innova Hycross,ZX (O) Hybrid e-CVT 7S,MPV,3098000,Hybrid,1987,4,183.7,188.0,e-CVT,1,23.24,52,7,300,6
+Toyota,Urban Cruiser Hyryder,E NeoDrive MT,Compact SUV,1114000,Petrol,1462,4,101.6,136.8,Manual,5,21.12,45,5,373,2
+Toyota,Urban Cruiser Hyryder,S CNG MT,Compact SUV,1371000,CNG,1462,4,86.6,121.5,Manual,5,26.6,55,5,265,2
+Toyota,Urban Cruiser Hyryder,V Hybrid e-CVT,Compact SUV,1999000,Hybrid,1490,3,114.4,141.0,e-CVT,1,27.97,45,5,255,6
+Volkswagen,Virtus,Comfortline 1.0 TSI MT,Sedan,1156000,Petrol,999,3,113.9,178.0,Manual,6,20.8,45,5,521,6
+Volkswagen,Virtus,GT Plus 1.5 TSI DSG,Sedan,1940000,Petrol,1498,4,147.9,250.0,DCT,7,19.62,45,5,521,6

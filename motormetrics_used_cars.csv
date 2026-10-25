@@ -1,0 +1,400 @@
+brand,model,variant,body_type,manufacturing_year,age_years,new_price_inr,resale_price_inr,km_driven,owner_type,accidental_status,service_history,fuel_type,transmission,city,insurance_validity,tyre_life_remaining_pct,data_source
+Honda,Amaze,V MT,Compact Sedan,2023,3,765000,370000,39000,2nd Owner,Non-Accidental,Full Authorized Service History,Petrol,Manual,Chandigarh,Third Party,69,synthetic
+Honda,Amaze,V MT,Compact Sedan,2019,7,765000,319000,84000,2nd Owner,Non-Accidental,Full Authorized Service History,Petrol,Manual,Pune,Zero Dep,36,synthetic
+Honda,Amaze,V MT,Compact Sedan,2023,3,765000,423000,44000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,Manual,Chennai,Comprehensive,61,synthetic
+Honda,Amaze,VX CVT,Compact Sedan,2024,2,940000,631000,27000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,CVT,Gurugram,Zero Dep,78,synthetic
+Honda,Amaze,VX CVT,Compact Sedan,2021,5,940000,501000,53000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,CVT,Pune,Comprehensive,51,synthetic
+Honda,Amaze,VX CVT,Compact Sedan,2024,2,940000,551000,21000,2nd Owner,Non-Accidental,Full Authorized Service History,Petrol,CVT,Mumbai,Comprehensive,76,synthetic
+Honda,Amaze,VX MT,Compact Sedan,2022,4,865000,437000,41000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,Manual,Noida,Zero Dep,70,synthetic
+Honda,Amaze,VX MT,Compact Sedan,2024,2,865000,531000,19000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,Manual,Delhi,Comprehensive,77,synthetic
+Honda,Amaze,VX MT,Compact Sedan,2021,5,865000,406000,53000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,Manual,Noida,Comprehensive,61,synthetic
+Honda,Amaze,ZX CVT,Compact Sedan,2019,7,1000000,375000,84000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,CVT,Chandigarh,Comprehensive,40,synthetic
+Honda,Amaze,ZX CVT,Compact Sedan,2020,6,1000000,431000,86000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,CVT,Hyderabad,Third Party,32,synthetic
+Honda,Amaze,ZX CVT,Compact Sedan,2024,2,1000000,653000,22000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,CVT,Delhi,Comprehensive,79,synthetic
+Honda,City,SV Petrol MT,Sedan,2020,6,1208000,533000,55000,2nd Owner,Non-Accidental,Full Authorized Service History,Petrol,Manual,Hyderabad,Third Party,52,synthetic
+Honda,City,SV Petrol MT,Sedan,2025,1,1208000,974000,15000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,Manual,Noida,Third Party,87,synthetic
+Honda,City,SV Petrol MT,Sedan,2021,5,1208000,552000,71000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,Manual,Hyderabad,Comprehensive,49,synthetic
+Honda,City,VX MT (4th Gen),Sedan,2017,9,1208000,412000,74000,2nd Owner,Non-Accidental,Full Authorized Service History,Petrol,Manual,Mumbai,Comprehensive,48,synthetic
+Honda,City,VX MT (4th Gen),Sedan,2023,3,1208000,619000,37000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,Manual,Chennai,Comprehensive,68,synthetic
+Honda,City,VX MT (4th Gen),Sedan,2020,6,1208000,609000,56000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,Manual,Bengaluru,Comprehensive,54,synthetic
+Honda,City,ZX CVT (5th Gen),Sedan,2023,3,1208000,596000,44000,1st Owner,Non-Accidental,Independent Garage,Petrol,Manual,Pune,Zero Dep,67,synthetic
+Honda,City,ZX CVT (5th Gen),Sedan,2019,7,1208000,434000,98000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,Manual,Chandigarh,Zero Dep,30,synthetic
+Honda,City,ZX CVT (5th Gen),Sedan,2024,2,1208000,939000,15000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,Manual,Hyderabad,Comprehensive,88,synthetic
+Honda,City,ZX Petrol CVT,Sedan,2021,5,1647000,674000,42000,3rd Owner,Right Fender Replaced,Full Authorized Service History,Petrol,CVT,Chennai,Comprehensive,67,synthetic
+Honda,City,ZX Petrol CVT,Sedan,2023,3,1647000,834000,35000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,CVT,Pune,Zero Dep,72,synthetic
+Honda,City,ZX Petrol CVT,Sedan,2023,3,1647000,879000,40000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,CVT,Jaipur,Comprehensive,75,synthetic
+Honda,City,ZX Plus Hybrid e:HEV,Sedan,2021,5,2136000,1073000,50000,1st Owner,Non-Accidental,Full Authorized Service History,Hybrid,e-CVT,Chandigarh,Zero Dep,59,synthetic
+Honda,City,ZX Plus Hybrid e:HEV,Sedan,2022,4,2136000,1124000,49000,1st Owner,Non-Accidental,Full Authorized Service History,Hybrid,e-CVT,Delhi,Zero Dep,56,synthetic
+Honda,City,ZX Plus Hybrid e:HEV,Sedan,2021,5,2136000,982000,38000,2nd Owner,Non-Accidental,Full Authorized Service History,Hybrid,e-CVT,Hyderabad,Zero Dep,77,synthetic
+Honda,Elevate,SV MT,Compact SUV,2019,7,1191000,500000,84000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,Manual,Chandigarh,Comprehensive,39,synthetic
+Honda,Elevate,SV MT,Compact SUV,2022,4,1191000,632000,41000,2nd Owner,Non-Accidental,Full Authorized Service History,Petrol,Manual,Chandigarh,Zero Dep,68,synthetic
+Honda,Elevate,SV MT,Compact SUV,2021,5,1191000,516000,53000,2nd Owner,Non-Accidental,Full Authorized Service History,Petrol,Manual,Lucknow,Zero Dep,63,synthetic
+Honda,Elevate,ZX CVT,Compact SUV,2023,3,1643000,825000,36000,2nd Owner,Non-Accidental,Full Authorized Service History,Petrol,CVT,Lucknow,Comprehensive,77,synthetic
+Honda,Elevate,ZX CVT,Compact SUV,2024,2,1643000,1035000,27000,1st Owner,Non-Accidental,Independent Garage,Petrol,CVT,Mumbai,Zero Dep,80,synthetic
+Honda,Elevate,ZX CVT,Compact SUV,2022,4,1643000,804000,53000,1st Owner,Non-Accidental,Partial History,Petrol,CVT,Hyderabad,Comprehensive,59,synthetic
+Hyundai,Alcazar,Executive 1.5 Turbo MT 7S,Mid-size SUV,2018,8,1499000,550000,107000,2nd Owner,Non-Accidental,Full Authorized Service History,Petrol,Manual,Jaipur,Comprehensive,30,synthetic
+Hyundai,Alcazar,Executive 1.5 Turbo MT 7S,Mid-size SUV,2018,8,1499000,522000,73000,1st Owner,Non-Accidental,Independent Garage,Petrol,Manual,Jaipur,Comprehensive,41,synthetic
+Hyundai,Alcazar,Executive 1.5 Turbo MT 7S,Mid-size SUV,2018,8,1499000,481000,119000,2nd Owner,Non-Accidental,Full Authorized Service History,Petrol,Manual,Jaipur,Comprehensive,30,synthetic
+Hyundai,Alcazar,Platinum 1.5 CRDi MT 7S,Mid-size SUV,2024,2,1901000,1478000,22000,1st Owner,Non-Accidental,Full Authorized Service History,Diesel,Manual,Bengaluru,Comprehensive,81,synthetic
+Hyundai,Alcazar,Platinum 1.5 CRDi MT 7S,Mid-size SUV,2021,5,1901000,912000,44000,1st Owner,Non-Accidental,Full Authorized Service History,Diesel,Manual,Hyderabad,Comprehensive,71,synthetic
+Hyundai,Alcazar,Platinum 1.5 CRDi MT 7S,Mid-size SUV,2024,2,1901000,1256000,27000,1st Owner,Non-Accidental,Full Authorized Service History,Diesel,Manual,Pune,Comprehensive,78,synthetic
+Hyundai,Alcazar,Prestige 1.5 Turbo DCT 7S,Mid-size SUV,2020,6,1808000,863000,57000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,DCT,Delhi,Zero Dep,58,synthetic
+Hyundai,Alcazar,Prestige 1.5 Turbo DCT 7S,Mid-size SUV,2022,4,1808000,905000,54000,2nd Owner,Non-Accidental,Full Authorized Service History,Petrol,DCT,Delhi,Zero Dep,51,synthetic
+Hyundai,Alcazar,Prestige 1.5 Turbo DCT 7S,Mid-size SUV,2018,8,1808000,585000,97000,1st Owner,Minor Scratches,Full Authorized Service History,Petrol,DCT,Noida,Comprehensive,34,synthetic
+Hyundai,Alcazar,Signature 1.5 CRDi AT 6S,Mid-size SUV,2018,8,2115000,683000,81000,2nd Owner,Minor Scratches,Full Authorized Service History,Diesel,Automatic,Chandigarh,Comprehensive,36,synthetic
+Hyundai,Alcazar,Signature 1.5 CRDi AT 6S,Mid-size SUV,2020,6,2115000,752000,66000,1st Owner,Minor Rear Bumper Replaced,Full Authorized Service History,Diesel,Automatic,Mumbai,Zero Dep,49,synthetic
+Hyundai,Alcazar,Signature 1.5 CRDi AT 6S,Mid-size SUV,2021,5,2115000,956000,54000,1st Owner,Non-Accidental,Partial History,Diesel,Automatic,Pune,Zero Dep,53,synthetic
+Hyundai,Creta,1.6 SX CRDi,Compact SUV,2024,2,1100000,773000,24000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,Manual,Lucknow,Comprehensive,75,synthetic
+Hyundai,Creta,1.6 SX CRDi,Compact SUV,2018,8,1100000,424000,97000,2nd Owner,Non-Accidental,Full Authorized Service History,Petrol,Manual,Lucknow,Third Party,30,synthetic
+Hyundai,Creta,1.6 SX CRDi,Compact SUV,2023,3,1100000,527000,34000,1st Owner,Non-Accidental,Independent Garage,Petrol,Manual,Chennai,Comprehensive,81,synthetic
+Hyundai,Creta,E 1.5 MT,Compact SUV,2025,1,1100000,972000,15000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,Manual,Gurugram,Zero Dep,87,synthetic
+Hyundai,Creta,E 1.5 MT,Compact SUV,2018,8,1100000,331000,102000,2nd Owner,Non-Accidental,Partial History,Petrol,Manual,Bengaluru,Zero Dep,30,synthetic
+Hyundai,Creta,E 1.5 MT,Compact SUV,2023,3,1100000,658000,22000,1st Owner,Non-Accidental,Partial History,Petrol,Manual,Gurugram,Zero Dep,88,synthetic
+Hyundai,Creta,SX (O) 1.5 CRDi AT,Compact SUV,2016,10,2015000,529000,85000,2nd Owner,Right Fender Replaced,Full Authorized Service History,Diesel,Automatic,Pune,Third Party,39,synthetic
+Hyundai,Creta,SX (O) 1.5 CRDi AT,Compact SUV,2024,2,2015000,1348000,20000,1st Owner,Non-Accidental,Full Authorized Service History,Diesel,Automatic,Chennai,Comprehensive,76,synthetic
+Hyundai,Creta,SX (O) 1.5 CRDi AT,Compact SUV,2019,7,2015000,738000,103000,1st Owner,Non-Accidental,Full Authorized Service History,Diesel,Automatic,Hyderabad,Comprehensive,30,synthetic
+Hyundai,Creta,SX (O) 1.5 IVT,Compact SUV,2017,9,1888000,849000,80000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,CVT,Jaipur,Zero Dep,43,synthetic
+Hyundai,Creta,SX (O) 1.5 IVT,Compact SUV,2023,3,1888000,1062000,43000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,CVT,Hyderabad,Zero Dep,64,synthetic
+Hyundai,Creta,SX (O) 1.5 IVT,Compact SUV,2023,3,1888000,802000,27000,3rd Owner,Minor Dent Repaired,Full Authorized Service History,Petrol,CVT,Chennai,Comprehensive,71,synthetic
+Hyundai,Creta,SX (O) 1.5 Turbo DCT,Compact SUV,2021,5,2015000,768000,52000,1st Owner,Right Fender Replaced,Full Authorized Service History,Petrol,DCT,Noida,Comprehensive,54,synthetic
+Hyundai,Creta,SX (O) 1.5 Turbo DCT,Compact SUV,2025,1,2015000,1843000,9000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,DCT,Delhi,Comprehensive,90,synthetic
+Hyundai,Creta,SX (O) 1.5 Turbo DCT,Compact SUV,2025,1,2015000,1397000,14000,2nd Owner,Minor Dent Repaired,Full Authorized Service History,Petrol,DCT,Noida,Zero Dep,90,synthetic
+Hyundai,Creta,SX (O) Diesel AT,Compact SUV,2017,9,1100000,404000,75000,1st Owner,Non-Accidental,Partial History,Petrol,Manual,Gurugram,Comprehensive,55,synthetic
+Hyundai,Creta,SX (O) Diesel AT,Compact SUV,2018,8,1100000,469000,70000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,Manual,Lucknow,Comprehensive,39,synthetic
+Hyundai,Creta,SX (O) Diesel AT,Compact SUV,2020,6,1100000,462000,85000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,Manual,Mumbai,Comprehensive,38,synthetic
+Hyundai,Creta,SX Petrol MT,Compact SUV,2025,1,1100000,827000,14000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,Manual,Mumbai,Comprehensive,81,synthetic
+Hyundai,Creta,SX Petrol MT,Compact SUV,2025,1,1100000,813000,9000,2nd Owner,Non-Accidental,Full Authorized Service History,Petrol,Manual,Gurugram,Comprehensive,90,synthetic
+Hyundai,Creta,SX Petrol MT,Compact SUV,2020,6,1100000,509000,43000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,Manual,Bengaluru,Comprehensive,67,synthetic
+Hyundai,Grand i10 Nios,Asta AMT,Hatchback,2023,3,856000,394000,42000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,AMT,Jaipur,Zero Dep,67,synthetic
+Hyundai,Grand i10 Nios,Asta AMT,Hatchback,2024,2,856000,547000,27000,1st Owner,Front Bumper Replaced,Full Authorized Service History,Petrol,AMT,Chandigarh,Third Party,77,synthetic
+Hyundai,Grand i10 Nios,Asta AMT,Hatchback,2019,7,856000,330000,72000,1st Owner,Non-Accidental,Independent Garage,Petrol,AMT,Delhi,Comprehensive,47,synthetic
+Hyundai,Grand i10 Nios,Era MT,Hatchback,2022,4,592000,267000,36000,1st Owner,Right Fender Replaced,Full Authorized Service History,Petrol,Manual,Hyderabad,Comprehensive,64,synthetic
+Hyundai,Grand i10 Nios,Era MT,Hatchback,2023,3,592000,322000,37000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,Manual,Noida,Zero Dep,70,synthetic
+Hyundai,Grand i10 Nios,Era MT,Hatchback,2020,6,592000,228000,57000,2nd Owner,Non-Accidental,Full Authorized Service History,Petrol,Manual,Hyderabad,Zero Dep,54,synthetic
+Hyundai,Grand i10 Nios,Magna CNG MT,Hatchback,2023,3,768000,412000,28000,1st Owner,Non-Accidental,Full Authorized Service History,CNG,Manual,Delhi,Comprehensive,73,synthetic
+Hyundai,Grand i10 Nios,Magna CNG MT,Hatchback,2017,9,768000,285000,93000,1st Owner,Non-Accidental,Full Authorized Service History,CNG,Manual,Chennai,Zero Dep,40,synthetic
+Hyundai,Grand i10 Nios,Magna CNG MT,Hatchback,2018,8,768000,259000,106000,1st Owner,Non-Accidental,Full Authorized Service History,CNG,Manual,Pune,Comprehensive,30,synthetic
+Hyundai,Grand i10 Nios,Sportz AMT,Hatchback,2024,2,592000,430000,17000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,Manual,Chandigarh,Third Party,88,synthetic
+Hyundai,Grand i10 Nios,Sportz AMT,Hatchback,2022,4,592000,302000,54000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,Manual,Jaipur,Comprehensive,55,synthetic
+Hyundai,Grand i10 Nios,Sportz AMT,Hatchback,2023,3,592000,314000,43000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,Manual,Lucknow,Third Party,65,synthetic
+Hyundai,Venue,E 1.2 MT,Compact SUV,2024,2,794000,563000,29000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,Manual,Hyderabad,Zero Dep,77,synthetic
+Hyundai,Venue,E 1.2 MT,Compact SUV,2022,4,794000,406000,42000,2nd Owner,Non-Accidental,Full Authorized Service History,Petrol,Manual,Mumbai,Comprehensive,64,synthetic
+Hyundai,Venue,E 1.2 MT,Compact SUV,2023,3,794000,433000,38000,1st Owner,Non-Accidental,Partial History,Petrol,Manual,Gurugram,Comprehensive,67,synthetic
+Hyundai,Venue,SX (O) 1.0 Turbo DCT,Compact SUV,2022,4,1338000,697000,29000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,DCT,Mumbai,Zero Dep,70,synthetic
+Hyundai,Venue,SX (O) 1.0 Turbo DCT,Compact SUV,2024,2,1338000,757000,29000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,DCT,Chennai,Zero Dep,75,synthetic
+Hyundai,Venue,SX (O) 1.0 Turbo DCT,Compact SUV,2024,2,1338000,828000,20000,2nd Owner,Non-Accidental,Full Authorized Service History,Petrol,DCT,Lucknow,Third Party,85,synthetic
+Hyundai,Venue,SX (O) 1.5 CRDi MT,Compact SUV,2025,1,1329000,1056000,14000,1st Owner,Non-Accidental,Partial History,Diesel,Manual,Delhi,Zero Dep,86,synthetic
+Hyundai,Venue,SX (O) 1.5 CRDi MT,Compact SUV,2020,6,1329000,563000,70000,1st Owner,Non-Accidental,Full Authorized Service History,Diesel,Manual,Chennai,Zero Dep,45,synthetic
+Hyundai,Venue,SX (O) 1.5 CRDi MT,Compact SUV,2023,3,1329000,674000,24000,1st Owner,Non-Accidental,Independent Garage,Diesel,Manual,Lucknow,Comprehensive,90,synthetic
+Hyundai,Verna,1.6 CRDi SX,Sedan,2024,2,1100000,650000,28000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,Manual,Noida,Comprehensive,74,synthetic
+Hyundai,Verna,1.6 CRDi SX,Sedan,2024,2,1100000,673000,22000,1st Owner,Right Fender Replaced,Full Authorized Service History,Petrol,Manual,Hyderabad,Comprehensive,83,synthetic
+Hyundai,Verna,1.6 CRDi SX,Sedan,2019,7,1100000,453000,72000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,Manual,Noida,Zero Dep,47,synthetic
+Hyundai,Verna,EX 1.5 MT,Sedan,2022,4,1100000,529000,28000,3rd Owner,Non-Accidental,Full Authorized Service History,Petrol,Manual,Chandigarh,Zero Dep,85,synthetic
+Hyundai,Verna,EX 1.5 MT,Sedan,2018,8,1100000,462000,62000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,Manual,Hyderabad,Comprehensive,53,synthetic
+Hyundai,Verna,EX 1.5 MT,Sedan,2016,10,1100000,353000,77000,2nd Owner,Front Bumper Replaced,Full Authorized Service History,Petrol,Manual,Delhi,Third Party,45,synthetic
+Hyundai,Verna,SX (O) 1.5 IVT,Sedan,2024,2,1623000,1091000,17000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,CVT,Pune,Zero Dep,78,synthetic
+Hyundai,Verna,SX (O) 1.5 IVT,Sedan,2025,1,1623000,1257000,11000,2nd Owner,Non-Accidental,Full Authorized Service History,Petrol,CVT,Noida,Zero Dep,88,synthetic
+Hyundai,Verna,SX (O) 1.5 IVT,Sedan,2019,7,1623000,681000,49000,2nd Owner,Non-Accidental,Partial History,Petrol,CVT,Jaipur,Comprehensive,61,synthetic
+Hyundai,Verna,SX (O) 1.5 Turbo DCT,Sedan,2019,7,1742000,672000,60000,2nd Owner,Non-Accidental,Full Authorized Service History,Petrol,DCT,Pune,Comprehensive,57,synthetic
+Hyundai,Verna,SX (O) 1.5 Turbo DCT,Sedan,2021,5,1742000,804000,46000,2nd Owner,Non-Accidental,Full Authorized Service History,Petrol,DCT,Gurugram,Third Party,51,synthetic
+Hyundai,Verna,SX (O) 1.5 Turbo DCT,Sedan,2022,4,1742000,769000,54000,1st Owner,Non-Accidental,Independent Garage,Petrol,DCT,Gurugram,Comprehensive,56,synthetic
+Hyundai,Verna,SX (O) Turbo DCT,Sedan,2020,6,1100000,424000,89000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,Manual,Pune,Comprehensive,38,synthetic
+Hyundai,Verna,SX (O) Turbo DCT,Sedan,2023,3,1100000,511000,31000,1st Owner,Non-Accidental,Partial History,Petrol,Manual,Chennai,Comprehensive,79,synthetic
+Hyundai,Verna,SX (O) Turbo DCT,Sedan,2020,6,1100000,454000,60000,1st Owner,Right Fender Replaced,Full Authorized Service History,Petrol,Manual,Lucknow,Comprehensive,52,synthetic
+Hyundai,i20,Asta (O) 1.2 IVT,Hatchback,2021,5,1121000,583000,37000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,CVT,Pune,Zero Dep,70,synthetic
+Hyundai,i20,Asta (O) 1.2 IVT,Hatchback,2024,2,1121000,767000,22000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,CVT,Lucknow,Zero Dep,90,synthetic
+Hyundai,i20,Asta (O) 1.2 IVT,Hatchback,2020,6,1121000,402000,88000,1st Owner,Non-Accidental,Partial History,Petrol,CVT,Hyderabad,Zero Dep,36,synthetic
+Hyundai,i20,Era 1.2 MT,Hatchback,2016,10,704000,194000,103000,1st Owner,Minor Dent Repaired,Full Authorized Service History,Petrol,Manual,Hyderabad,Comprehensive,35,synthetic
+Hyundai,i20,Era 1.2 MT,Hatchback,2020,6,704000,324000,60000,2nd Owner,Non-Accidental,Full Authorized Service History,Petrol,Manual,Lucknow,Comprehensive,54,synthetic
+Hyundai,i20,Era 1.2 MT,Hatchback,2019,7,704000,270000,104000,1st Owner,Minor Scratches,Full Authorized Service History,Petrol,Manual,Jaipur,Comprehensive,30,synthetic
+Kia,Carens,Luxury Plus 1.5 CRDi AT 6S,MPV,2019,7,1967000,833000,66000,2nd Owner,Non-Accidental,Full Authorized Service History,Diesel,Automatic,Bengaluru,Zero Dep,52,synthetic
+Kia,Carens,Luxury Plus 1.5 CRDi AT 6S,MPV,2018,8,1967000,656000,84000,1st Owner,Front Bumper Replaced,Independent Garage,Diesel,Automatic,Gurugram,Comprehensive,33,synthetic
+Kia,Carens,Luxury Plus 1.5 CRDi AT 6S,MPV,2021,5,1967000,777000,73000,1st Owner,Right Fender Replaced,Full Authorized Service History,Diesel,Automatic,Chandigarh,Zero Dep,53,synthetic
+Kia,Carens,Premium 1.5 Petrol MT 7S,MPV,2019,7,1052000,374000,54000,1st Owner,Minor Dent Repaired,Full Authorized Service History,Petrol,Manual,Lucknow,Zero Dep,56,synthetic
+Kia,Carens,Premium 1.5 Petrol MT 7S,MPV,2023,3,1052000,550000,44000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,Manual,Lucknow,Comprehensive,69,synthetic
+Kia,Carens,Premium 1.5 Petrol MT 7S,MPV,2022,4,1052000,487000,56000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,Manual,Delhi,Comprehensive,62,synthetic
+Kia,Carens,Prestige Plus 1.5 Turbo iMT 7S,MPV,2020,6,1495000,655000,73000,2nd Owner,Non-Accidental,Full Authorized Service History,Petrol,Clutchless Manual (iMT),Chennai,Comprehensive,44,synthetic
+Kia,Carens,Prestige Plus 1.5 Turbo iMT 7S,MPV,2022,4,1495000,691000,60000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,Clutchless Manual (iMT),Mumbai,Comprehensive,48,synthetic
+Kia,Carens,Prestige Plus 1.5 Turbo iMT 7S,MPV,2020,6,1495000,533000,65000,1st Owner,Front Bumper Replaced,Partial History,Petrol,Clutchless Manual (iMT),Chennai,Comprehensive,51,synthetic
+Kia,Seltos,GTX Plus 1.4 Turbo DCT,Compact SUV,2021,5,1090000,530000,50000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,Manual,Delhi,Comprehensive,54,synthetic
+Kia,Seltos,GTX Plus 1.4 Turbo DCT,Compact SUV,2025,1,1090000,832000,9000,1st Owner,Non-Accidental,Independent Garage,Petrol,Manual,Chennai,Comprehensive,90,synthetic
+Kia,Seltos,GTX Plus 1.4 Turbo DCT,Compact SUV,2022,4,1090000,537000,43000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,Manual,Pune,Zero Dep,60,synthetic
+Kia,Seltos,GTX Plus 1.5 Turbo DCT,Compact SUV,2023,3,2000000,1097000,41000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,DCT,Noida,Comprehensive,70,synthetic
+Kia,Seltos,GTX Plus 1.5 Turbo DCT,Compact SUV,2019,7,2000000,904000,62000,1st Owner,Non-Accidental,Independent Garage,Petrol,DCT,Bengaluru,Zero Dep,47,synthetic
+Kia,Seltos,GTX Plus 1.5 Turbo DCT,Compact SUV,2024,2,2000000,1368000,22000,2nd Owner,Non-Accidental,Full Authorized Service History,Petrol,DCT,Mumbai,Zero Dep,90,synthetic
+Kia,Seltos,HTE 1.5 MT,Compact SUV,2025,1,1090000,755000,9000,1st Owner,Non-Accidental,Independent Garage,Petrol,Manual,Lucknow,Comprehensive,90,synthetic
+Kia,Seltos,HTE 1.5 MT,Compact SUV,2025,1,1090000,891000,9000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,Manual,Bengaluru,Third Party,89,synthetic
+Kia,Seltos,HTE 1.5 MT,Compact SUV,2023,3,1090000,596000,31000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,Manual,Bengaluru,Comprehensive,67,synthetic
+Kia,Seltos,HTK Plus Diesel MT,Compact SUV,2025,1,1090000,842000,11000,2nd Owner,Non-Accidental,Full Authorized Service History,Petrol,Manual,Chennai,Zero Dep,75,synthetic
+Kia,Seltos,HTK Plus Diesel MT,Compact SUV,2020,6,1090000,479000,75000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,Manual,Gurugram,Comprehensive,39,synthetic
+Kia,Seltos,HTK Plus Diesel MT,Compact SUV,2024,2,1090000,685000,19000,1st Owner,Non-Accidental,Partial History,Petrol,Manual,Lucknow,Comprehensive,81,synthetic
+Kia,Seltos,X-Line 1.5 CRDi AT,Compact SUV,2021,5,2035000,839000,51000,1st Owner,Minor Scratches,Full Authorized Service History,Diesel,Automatic,Chennai,Comprehensive,61,synthetic
+Kia,Seltos,X-Line 1.5 CRDi AT,Compact SUV,2022,4,2035000,1049000,48000,1st Owner,Non-Accidental,Full Authorized Service History,Diesel,Automatic,Noida,Zero Dep,67,synthetic
+Kia,Seltos,X-Line 1.5 CRDi AT,Compact SUV,2019,7,2035000,894000,56000,1st Owner,Non-Accidental,Full Authorized Service History,Diesel,Automatic,Lucknow,Zero Dep,56,synthetic
+Kia,Sonet,GTX Plus 1.0 Turbo DCT,Compact SUV,2025,1,1470000,1215000,9000,1st Owner,Non-Accidental,Independent Garage,Petrol,DCT,Chennai,Third Party,83,synthetic
+Kia,Sonet,GTX Plus 1.0 Turbo DCT,Compact SUV,2024,2,1470000,893000,19000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,DCT,Lucknow,Zero Dep,84,synthetic
+Kia,Sonet,GTX Plus 1.0 Turbo DCT,Compact SUV,2024,2,1470000,1038000,18000,2nd Owner,Non-Accidental,Full Authorized Service History,Petrol,DCT,Chandigarh,Comprehensive,80,synthetic
+Kia,Sonet,HTE 1.2 MT,Compact SUV,2023,3,799000,371000,42000,1st Owner,Non-Accidental,Partial History,Petrol,Manual,Delhi,Comprehensive,64,synthetic
+Kia,Sonet,HTE 1.2 MT,Compact SUV,2019,7,799000,304000,91000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,Manual,Delhi,Comprehensive,33,synthetic
+Kia,Sonet,HTE 1.2 MT,Compact SUV,2024,2,799000,477000,29000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,Manual,Mumbai,Comprehensive,68,synthetic
+Kia,Sonet,HTX 1.0 Turbo iMT,Compact SUV,2024,2,799000,502000,26000,1st Owner,Non-Accidental,Partial History,Petrol,Manual,Pune,Zero Dep,75,synthetic
+Kia,Sonet,HTX 1.0 Turbo iMT,Compact SUV,2020,6,799000,387000,54000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,Manual,Chandigarh,Zero Dep,56,synthetic
+Kia,Sonet,HTX 1.0 Turbo iMT,Compact SUV,2023,3,799000,493000,35000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,Manual,Pune,Zero Dep,72,synthetic
+Kia,Sonet,X-Line 1.5 CRDi AT,Compact SUV,2024,2,1577000,1322000,15000,1st Owner,Non-Accidental,Full Authorized Service History,Diesel,Automatic,Bengaluru,Comprehensive,83,synthetic
+Kia,Sonet,X-Line 1.5 CRDi AT,Compact SUV,2021,5,1577000,833000,55000,1st Owner,Non-Accidental,Full Authorized Service History,Diesel,Automatic,Noida,Comprehensive,46,synthetic
+Kia,Sonet,X-Line 1.5 CRDi AT,Compact SUV,2025,1,1577000,1327000,9000,1st Owner,Non-Accidental,Full Authorized Service History,Diesel,Automatic,Delhi,Zero Dep,79,synthetic
+MG,Gloster,Savvy 6S 4x4 Twin Turbo,Full-size SUV,2023,3,4387000,2469000,29000,1st Owner,Non-Accidental,Full Authorized Service History,Diesel,Automatic,Noida,Third Party,75,synthetic
+MG,Gloster,Savvy 6S 4x4 Twin Turbo,Full-size SUV,2018,8,4387000,1796000,73000,1st Owner,Non-Accidental,Independent Garage,Diesel,Automatic,Gurugram,Comprehensive,45,synthetic
+MG,Gloster,Savvy 6S 4x4 Twin Turbo,Full-size SUV,2018,8,4387000,1506000,119000,1st Owner,Non-Accidental,Full Authorized Service History,Diesel,Automatic,Delhi,Comprehensive,30,synthetic
+MG,Gloster,Sharp 7S 4x2,Full-size SUV,2022,4,3880000,1797000,32000,1st Owner,Non-Accidental,Partial History,Diesel,Automatic,Hyderabad,Comprehensive,73,synthetic
+MG,Gloster,Sharp 7S 4x2,Full-size SUV,2025,1,3880000,2701000,8000,1st Owner,Minor Dent Repaired,Full Authorized Service History,Diesel,Automatic,Jaipur,Comprehensive,82,synthetic
+MG,Gloster,Sharp 7S 4x2,Full-size SUV,2023,3,3880000,2124000,25000,2nd Owner,Non-Accidental,Full Authorized Service History,Diesel,Automatic,Jaipur,Zero Dep,75,synthetic
+Mahindra,Scorpio-N,Z2 Petrol MT 7S,Mid-size SUV,2022,4,1385000,603000,35000,1st Owner,Right Fender Replaced,Full Authorized Service History,Petrol,Manual,Hyderabad,Comprehensive,73,synthetic
+Mahindra,Scorpio-N,Z2 Petrol MT 7S,Mid-size SUV,2022,4,1385000,641000,47000,2nd Owner,Non-Accidental,Full Authorized Service History,Petrol,Manual,Delhi,Comprehensive,65,synthetic
+Mahindra,Scorpio-N,Z2 Petrol MT 7S,Mid-size SUV,2022,4,1385000,648000,58000,2nd Owner,Non-Accidental,Full Authorized Service History,Petrol,Manual,Mumbai,Third Party,52,synthetic
+Mahindra,Scorpio-N,Z4 Diesel MT,Mid-size SUV,2016,10,1385000,319000,129000,1st Owner,Minor Rear Bumper Replaced,Full Authorized Service History,Petrol,Manual,Chandigarh,Comprehensive,30,synthetic
+Mahindra,Scorpio-N,Z4 Diesel MT,Mid-size SUV,2024,2,1385000,1016000,29000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,Manual,Chandigarh,Comprehensive,69,synthetic
+Mahindra,Scorpio-N,Z4 Diesel MT,Mid-size SUV,2022,4,1385000,588000,33000,1st Owner,Right Fender Replaced,Full Authorized Service History,Petrol,Manual,Delhi,Comprehensive,73,synthetic
+Mahindra,Scorpio-N,Z8 L Diesel 4x4 AT,Mid-size SUV,2021,5,1385000,626000,73000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,Manual,Mumbai,Comprehensive,45,synthetic
+Mahindra,Scorpio-N,Z8 L Diesel 4x4 AT,Mid-size SUV,2024,2,1385000,1049000,22000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,Manual,Chandigarh,Comprehensive,84,synthetic
+Mahindra,Scorpio-N,Z8 L Diesel 4x4 AT,Mid-size SUV,2025,1,1385000,1117000,10000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,Manual,Bengaluru,Comprehensive,84,synthetic
+Mahindra,Scorpio-N,Z8 L Diesel AT 4x4 7S,Mid-size SUV,2025,1,2454000,1952000,9000,1st Owner,Non-Accidental,Full Authorized Service History,Diesel,Automatic,Chandigarh,Third Party,86,synthetic
+Mahindra,Scorpio-N,Z8 L Diesel AT 4x4 7S,Mid-size SUV,2024,2,2454000,1440000,21000,2nd Owner,Non-Accidental,Full Authorized Service History,Diesel,Automatic,Noida,Comprehensive,80,synthetic
+Mahindra,Scorpio-N,Z8 L Diesel AT 4x4 7S,Mid-size SUV,2019,7,2454000,1007000,77000,1st Owner,Non-Accidental,Full Authorized Service History,Diesel,Automatic,Lucknow,Zero Dep,36,synthetic
+Mahindra,XUV 3XO,AX5 L 1.5 CRDe AT Diesel,Compact SUV,2021,5,1389000,609000,47000,1st Owner,Front Bumper Replaced,Full Authorized Service History,Diesel,Automatic,Mumbai,Comprehensive,58,synthetic
+Mahindra,XUV 3XO,AX5 L 1.5 CRDe AT Diesel,Compact SUV,2023,3,1389000,750000,41000,1st Owner,Non-Accidental,Full Authorized Service History,Diesel,Automatic,Pune,Comprehensive,61,synthetic
+Mahindra,XUV 3XO,AX5 L 1.5 CRDe AT Diesel,Compact SUV,2021,5,1389000,690000,63000,1st Owner,Non-Accidental,Independent Garage,Diesel,Automatic,Hyderabad,Comprehensive,54,synthetic
+Mahindra,XUV 3XO,AX7 L 1.2 TGDi AT,Compact SUV,2024,2,1549000,1048000,15000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,Automatic,Jaipur,Comprehensive,78,synthetic
+Mahindra,XUV 3XO,AX7 L 1.2 TGDi AT,Compact SUV,2018,8,1549000,572000,69000,3rd Owner,Non-Accidental,Independent Garage,Petrol,Automatic,Delhi,Comprehensive,46,synthetic
+Mahindra,XUV 3XO,AX7 L 1.2 TGDi AT,Compact SUV,2024,2,1549000,971000,26000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,Automatic,Chandigarh,Third Party,78,synthetic
+Mahindra,XUV 3XO,MX1 1.2 TCMPFi MT,Compact SUV,2025,1,779000,650000,14000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,Manual,Noida,Comprehensive,90,synthetic
+Mahindra,XUV 3XO,MX1 1.2 TCMPFi MT,Compact SUV,2021,5,779000,355000,52000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,Manual,Chandigarh,Comprehensive,61,synthetic
+Mahindra,XUV 3XO,MX1 1.2 TCMPFi MT,Compact SUV,2019,7,779000,281000,93000,1st Owner,Non-Accidental,Partial History,Petrol,Manual,Gurugram,Comprehensive,37,synthetic
+Mahindra,XUV700,AX5 Petrol MT,Mid-size SUV,2021,5,1399000,557000,64000,2nd Owner,Minor Dent Repaired,Full Authorized Service History,Petrol,Manual,Delhi,Comprehensive,52,synthetic
+Mahindra,XUV700,AX5 Petrol MT,Mid-size SUV,2019,7,1399000,519000,82000,2nd Owner,Non-Accidental,Full Authorized Service History,Petrol,Manual,Mumbai,Third Party,43,synthetic
+Mahindra,XUV700,AX5 Petrol MT,Mid-size SUV,2021,5,1399000,551000,73000,2nd Owner,Non-Accidental,Full Authorized Service History,Petrol,Manual,Noida,Comprehensive,40,synthetic
+Mahindra,XUV700,AX7 L Diesel AT AWD,Mid-size SUV,2022,4,1399000,646000,39000,2nd Owner,Non-Accidental,Full Authorized Service History,Petrol,Manual,Jaipur,Zero Dep,68,synthetic
+Mahindra,XUV700,AX7 L Diesel AT AWD,Mid-size SUV,2024,2,1399000,895000,18000,2nd Owner,Non-Accidental,Full Authorized Service History,Petrol,Manual,Chennai,Zero Dep,81,synthetic
+Mahindra,XUV700,AX7 L Diesel AT AWD,Mid-size SUV,2024,2,1399000,982000,22000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,Manual,Mumbai,Zero Dep,85,synthetic
+Mahindra,XUV700,AX7 L Diesel AT AWD 7S,Mid-size SUV,2018,8,2699000,933000,102000,1st Owner,Non-Accidental,Full Authorized Service History,Diesel,Automatic,Pune,Zero Dep,30,synthetic
+Mahindra,XUV700,AX7 L Diesel AT AWD 7S,Mid-size SUV,2024,2,2699000,2035000,21000,1st Owner,Non-Accidental,Full Authorized Service History,Diesel,Automatic,Hyderabad,Comprehensive,80,synthetic
+Mahindra,XUV700,AX7 L Diesel AT AWD 7S,Mid-size SUV,2022,4,2699000,1265000,38000,1st Owner,Non-Accidental,Full Authorized Service History,Diesel,Automatic,Gurugram,Comprehensive,69,synthetic
+Mahindra,XUV700,MX Petrol MT 5S,Mid-size SUV,2020,6,1399000,688000,58000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,Manual,Bengaluru,Third Party,52,synthetic
+Mahindra,XUV700,MX Petrol MT 5S,Mid-size SUV,2023,3,1399000,715000,33000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,Manual,Jaipur,Comprehensive,77,synthetic
+Mahindra,XUV700,MX Petrol MT 5S,Mid-size SUV,2020,6,1399000,593000,70000,1st Owner,Non-Accidental,Partial History,Petrol,Manual,Chennai,Zero Dep,51,synthetic
+Maruti Suzuki,Baleno,Alpha AMT,Hatchback,2017,9,960000,410000,84000,2nd Owner,Non-Accidental,Full Authorized Service History,Petrol,AMT,Pune,Zero Dep,36,synthetic
+Maruti Suzuki,Baleno,Alpha AMT,Hatchback,2022,4,960000,522000,53000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,AMT,Pune,Zero Dep,61,synthetic
+Maruti Suzuki,Baleno,Alpha AMT,Hatchback,2020,6,960000,475000,60000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,AMT,Noida,Comprehensive,55,synthetic
+Maruti Suzuki,Baleno,Alpha CVT,Hatchback,2025,1,599000,485000,14000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,Manual,Noida,Zero Dep,90,synthetic
+Maruti Suzuki,Baleno,Alpha CVT,Hatchback,2022,4,599000,304000,28000,1st Owner,Non-Accidental,Independent Garage,Petrol,Manual,Delhi,Comprehensive,83,synthetic
+Maruti Suzuki,Baleno,Alpha CVT,Hatchback,2022,4,599000,344000,36000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,Manual,Chandigarh,Zero Dep,66,synthetic
+Maruti Suzuki,Baleno,Delta,Hatchback,2025,1,599000,488000,8000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,Manual,Lucknow,Zero Dep,90,synthetic
+Maruti Suzuki,Baleno,Delta,Hatchback,2024,2,599000,382000,27000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,Manual,Lucknow,Third Party,68,synthetic
+Maruti Suzuki,Baleno,Delta,Hatchback,2021,5,599000,261000,57000,2nd Owner,Non-Accidental,Full Authorized Service History,Petrol,Manual,Mumbai,Comprehensive,53,synthetic
+Maruti Suzuki,Baleno,Delta AMT,Hatchback,2022,4,750000,391000,45000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,AMT,Jaipur,Zero Dep,62,synthetic
+Maruti Suzuki,Baleno,Delta AMT,Hatchback,2021,5,750000,300000,59000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,AMT,Chandigarh,Zero Dep,54,synthetic
+Maruti Suzuki,Baleno,Delta AMT,Hatchback,2020,6,750000,357000,66000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,AMT,Delhi,Comprehensive,49,synthetic
+Maruti Suzuki,Baleno,Delta CNG MT,Hatchback,2024,2,792000,536000,22000,1st Owner,Non-Accidental,Full Authorized Service History,CNG,Manual,Chennai,Comprehensive,78,synthetic
+Maruti Suzuki,Baleno,Delta CNG MT,Hatchback,2024,2,792000,503000,29000,2nd Owner,Non-Accidental,Full Authorized Service History,CNG,Manual,Mumbai,Comprehensive,66,synthetic
+Maruti Suzuki,Baleno,Delta CNG MT,Hatchback,2025,1,792000,624000,8000,1st Owner,Non-Accidental,Full Authorized Service History,CNG,Manual,Pune,Third Party,87,synthetic
+Maruti Suzuki,Baleno,Sigma MT,Hatchback,2020,6,599000,195000,75000,1st Owner,Minor Dent Repaired,Independent Garage,Petrol,Manual,Chennai,Comprehensive,44,synthetic
+Maruti Suzuki,Baleno,Sigma MT,Hatchback,2023,3,599000,352000,30000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,Manual,Lucknow,Comprehensive,86,synthetic
+Maruti Suzuki,Baleno,Sigma MT,Hatchback,2022,4,599000,265000,43000,2nd Owner,Right Fender Replaced,Full Authorized Service History,Petrol,Manual,Noida,Comprehensive,70,synthetic
+Maruti Suzuki,Brezza,LXi MT,Compact SUV,2024,2,834000,524000,23000,2nd Owner,Non-Accidental,Partial History,Petrol,Manual,Chennai,Zero Dep,78,synthetic
+Maruti Suzuki,Brezza,LXi MT,Compact SUV,2020,6,834000,339000,51000,2nd Owner,Right Fender Replaced,Full Authorized Service History,Petrol,Manual,Noida,Comprehensive,63,synthetic
+Maruti Suzuki,Brezza,LXi MT,Compact SUV,2022,4,834000,439000,31000,1st Owner,Non-Accidental,Independent Garage,Petrol,Manual,Pune,Zero Dep,78,synthetic
+Maruti Suzuki,Brezza,VDi Diesel,Compact SUV,2022,4,834000,376000,39000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,Manual,Pune,Zero Dep,67,synthetic
+Maruti Suzuki,Brezza,VDi Diesel,Compact SUV,2025,1,834000,600000,15000,1st Owner,Non-Accidental,Independent Garage,Petrol,Manual,Noida,Zero Dep,75,synthetic
+Maruti Suzuki,Brezza,VDi Diesel,Compact SUV,2022,4,834000,466000,45000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,Manual,Pune,Zero Dep,60,synthetic
+Maruti Suzuki,Brezza,VXi CNG MT,Compact SUV,2021,5,1065000,441000,64000,1st Owner,Non-Accidental,Full Authorized Service History,CNG,Manual,Delhi,Comprehensive,55,synthetic
+Maruti Suzuki,Brezza,VXi CNG MT,Compact SUV,2025,1,1065000,848000,9000,1st Owner,Non-Accidental,Full Authorized Service History,CNG,Manual,Lucknow,Comprehensive,84,synthetic
+Maruti Suzuki,Brezza,VXi CNG MT,Compact SUV,2025,1,1065000,791000,11000,1st Owner,Non-Accidental,Full Authorized Service History,CNG,Manual,Gurugram,Comprehensive,83,synthetic
+Maruti Suzuki,Brezza,ZXi AT,Compact SUV,2018,8,834000,301000,74000,2nd Owner,Non-Accidental,Full Authorized Service History,Petrol,Manual,Chandigarh,Comprehensive,46,synthetic
+Maruti Suzuki,Brezza,ZXi AT,Compact SUV,2024,2,834000,491000,27000,1st Owner,Minor Rear Bumper Replaced,Full Authorized Service History,Petrol,Manual,Mumbai,Comprehensive,76,synthetic
+Maruti Suzuki,Brezza,ZXi AT,Compact SUV,2025,1,834000,597000,12000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,Manual,Delhi,Comprehensive,86,synthetic
+Maruti Suzuki,Brezza,ZXi Plus AT,Compact SUV,2022,4,1398000,703000,41000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,Automatic,Jaipur,Comprehensive,65,synthetic
+Maruti Suzuki,Brezza,ZXi Plus AT,Compact SUV,2022,4,1398000,803000,43000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,Automatic,Noida,Comprehensive,68,synthetic
+Maruti Suzuki,Brezza,ZXi Plus AT,Compact SUV,2021,5,1398000,496000,55000,1st Owner,Minor Scratches,Full Authorized Service History,Petrol,Automatic,Chandigarh,Comprehensive,58,synthetic
+Maruti Suzuki,Ciaz,Alpha AT,Sedan,2024,2,1229000,855000,29000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,Automatic,Jaipur,Third Party,76,synthetic
+Maruti Suzuki,Ciaz,Alpha AT,Sedan,2017,9,1229000,483000,67000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,Automatic,Bengaluru,Comprehensive,51,synthetic
+Maruti Suzuki,Ciaz,Alpha AT,Sedan,2021,5,1229000,537000,62000,1st Owner,Non-Accidental,Independent Garage,Petrol,Automatic,Chandigarh,Zero Dep,47,synthetic
+Maruti Suzuki,Ciaz,Sigma MT,Sedan,2019,7,940000,366000,105000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,Manual,Bengaluru,Comprehensive,30,synthetic
+Maruti Suzuki,Ciaz,Sigma MT,Sedan,2019,7,940000,362000,51000,1st Owner,Minor Dent Repaired,Full Authorized Service History,Petrol,Manual,Chennai,Comprehensive,64,synthetic
+Maruti Suzuki,Ciaz,Sigma MT,Sedan,2023,3,940000,458000,32000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,Manual,Bengaluru,Comprehensive,77,synthetic
+Maruti Suzuki,Ertiga,LXi MT,MPV,2022,4,869000,397000,40000,1st Owner,Minor Scratches,Full Authorized Service History,Petrol,Manual,Pune,Comprehensive,65,synthetic
+Maruti Suzuki,Ertiga,LXi MT,MPV,2022,4,869000,445000,42000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,Manual,Hyderabad,Zero Dep,72,synthetic
+Maruti Suzuki,Ertiga,LXi MT,MPV,2020,6,869000,367000,48000,2nd Owner,Non-Accidental,Full Authorized Service History,Petrol,Manual,Lucknow,Comprehensive,71,synthetic
+Maruti Suzuki,Ertiga,VXi CNG MT,MPV,2025,1,1078000,644000,11000,1st Owner,Right Fender Replaced,Full Authorized Service History,CNG,Manual,Bengaluru,Comprehensive,90,synthetic
+Maruti Suzuki,Ertiga,VXi CNG MT,MPV,2025,1,1078000,986000,15000,1st Owner,Non-Accidental,Full Authorized Service History,CNG,Manual,Chennai,Third Party,89,synthetic
+Maruti Suzuki,Ertiga,VXi CNG MT,MPV,2024,2,1078000,686000,20000,1st Owner,Non-Accidental,Independent Garage,CNG,Manual,Delhi,Third Party,78,synthetic
+Maruti Suzuki,Ertiga,ZXi Plus AT,MPV,2024,2,1303000,839000,18000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,Automatic,Chennai,Comprehensive,83,synthetic
+Maruti Suzuki,Ertiga,ZXi Plus AT,MPV,2020,6,1303000,623000,75000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,Automatic,Lucknow,Zero Dep,47,synthetic
+Maruti Suzuki,Ertiga,ZXi Plus AT,MPV,2025,1,1303000,1051000,9000,2nd Owner,Non-Accidental,Full Authorized Service History,Petrol,Automatic,Chennai,Comprehensive,90,synthetic
+Maruti Suzuki,Grand Vitara,Alpha Plus Intelligent Hybrid e-CVT,Compact SUV,2021,5,2009000,937000,56000,2nd Owner,Non-Accidental,Full Authorized Service History,Hybrid,e-CVT,Pune,Comprehensive,54,synthetic
+Maruti Suzuki,Grand Vitara,Alpha Plus Intelligent Hybrid e-CVT,Compact SUV,2022,4,2009000,1175000,38000,1st Owner,Non-Accidental,Full Authorized Service History,Hybrid,e-CVT,Gurugram,Zero Dep,69,synthetic
+Maruti Suzuki,Grand Vitara,Alpha Plus Intelligent Hybrid e-CVT,Compact SUV,2018,8,2009000,841000,112000,1st Owner,Non-Accidental,Full Authorized Service History,Hybrid,e-CVT,Chandigarh,Zero Dep,30,synthetic
+Maruti Suzuki,Grand Vitara,Delta CNG MT,Compact SUV,2024,2,1315000,841000,27000,1st Owner,Non-Accidental,Full Authorized Service History,CNG,Manual,Delhi,Zero Dep,73,synthetic
+Maruti Suzuki,Grand Vitara,Delta CNG MT,Compact SUV,2022,4,1315000,751000,31000,1st Owner,Non-Accidental,Full Authorized Service History,CNG,Manual,Chandigarh,Comprehensive,74,synthetic
+Maruti Suzuki,Grand Vitara,Delta CNG MT,Compact SUV,2023,3,1315000,551000,44000,1st Owner,Right Fender Replaced,Full Authorized Service History,CNG,Manual,Chennai,Comprehensive,60,synthetic
+Maruti Suzuki,Grand Vitara,Sigma Smart Hybrid MT,Compact SUV,2021,5,1099000,382000,67000,1st Owner,Minor Dent Repaired,Full Authorized Service History,Petrol,Manual,Lucknow,Zero Dep,60,synthetic
+Maruti Suzuki,Grand Vitara,Sigma Smart Hybrid MT,Compact SUV,2022,4,1099000,510000,42000,1st Owner,Non-Accidental,Independent Garage,Petrol,Manual,Hyderabad,Third Party,78,synthetic
+Maruti Suzuki,Grand Vitara,Sigma Smart Hybrid MT,Compact SUV,2022,4,1099000,564000,48000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,Manual,Mumbai,Zero Dep,66,synthetic
+Maruti Suzuki,Swift,LXi MT,Hatchback,2022,4,649000,354000,51000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,Manual,Delhi,Zero Dep,53,synthetic
+Maruti Suzuki,Swift,LXi MT,Hatchback,2019,7,649000,291000,55000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,Manual,Chennai,Comprehensive,55,synthetic
+Maruti Suzuki,Swift,LXi MT,Hatchback,2024,2,649000,404000,29000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,Manual,Hyderabad,Comprehensive,72,synthetic
+Maruti Suzuki,Swift,VDi Diesel,Hatchback,2019,7,649000,286000,68000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,Manual,Pune,Comprehensive,49,synthetic
+Maruti Suzuki,Swift,VDi Diesel,Hatchback,2025,1,649000,556000,9000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,Manual,Chennai,Comprehensive,90,synthetic
+Maruti Suzuki,Swift,VDi Diesel,Hatchback,2024,2,649000,394000,28000,1st Owner,Right Fender Replaced,Full Authorized Service History,Petrol,Manual,Chandigarh,Zero Dep,77,synthetic
+Maruti Suzuki,Swift,VXi,Hatchback,2023,3,649000,367000,41000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,Manual,Chennai,Zero Dep,63,synthetic
+Maruti Suzuki,Swift,VXi,Hatchback,2020,6,649000,250000,45000,2nd Owner,Front Bumper Replaced,Partial History,Petrol,Manual,Lucknow,Third Party,65,synthetic
+Maruti Suzuki,Swift,VXi,Hatchback,2019,7,649000,272000,83000,3rd Owner,Non-Accidental,Full Authorized Service History,Petrol,Manual,Bengaluru,Zero Dep,37,synthetic
+Maruti Suzuki,Swift,VXi CNG MT,Hatchback,2021,5,819000,404000,55000,1st Owner,Non-Accidental,Full Authorized Service History,CNG,Manual,Lucknow,Zero Dep,62,synthetic
+Maruti Suzuki,Swift,VXi CNG MT,Hatchback,2021,5,819000,377000,61000,1st Owner,Non-Accidental,Full Authorized Service History,CNG,Manual,Bengaluru,Third Party,54,synthetic
+Maruti Suzuki,Swift,VXi CNG MT,Hatchback,2022,4,819000,369000,30000,2nd Owner,Minor Dent Repaired,Full Authorized Service History,CNG,Manual,Noida,Zero Dep,84,synthetic
+Maruti Suzuki,Swift,ZXi AMT,Hatchback,2021,5,649000,362000,46000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,Manual,Mumbai,Comprehensive,65,synthetic
+Maruti Suzuki,Swift,ZXi AMT,Hatchback,2024,2,649000,370000,22000,1st Owner,Minor Scratches,Full Authorized Service History,Petrol,Manual,Lucknow,Comprehensive,83,synthetic
+Maruti Suzuki,Swift,ZXi AMT,Hatchback,2022,4,649000,331000,46000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,Manual,Hyderabad,Third Party,68,synthetic
+Maruti Suzuki,Swift,ZXi Plus AMT,Hatchback,2022,4,959000,368000,46000,2nd Owner,Minor Scratches,Full Authorized Service History,Petrol,AMT,Hyderabad,Comprehensive,57,synthetic
+Maruti Suzuki,Swift,ZXi Plus AMT,Hatchback,2025,1,959000,761000,12000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,AMT,Delhi,Zero Dep,90,synthetic
+Maruti Suzuki,Swift,ZXi Plus AMT,Hatchback,2023,3,959000,518000,23000,2nd Owner,Non-Accidental,Full Authorized Service History,Petrol,AMT,Noida,Comprehensive,84,synthetic
+Maruti Suzuki,WagonR,LXi 1.0 MT,Hatchback,2023,3,555000,305000,39000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,Manual,Pune,Third Party,64,synthetic
+Maruti Suzuki,WagonR,LXi 1.0 MT,Hatchback,2020,6,555000,170000,71000,3rd Owner,Minor Scratches,Independent Garage,Petrol,Manual,Bengaluru,Zero Dep,51,synthetic
+Maruti Suzuki,WagonR,LXi 1.0 MT,Hatchback,2022,4,555000,248000,42000,2nd Owner,Non-Accidental,Full Authorized Service History,Petrol,Manual,Gurugram,Comprehensive,72,synthetic
+Maruti Suzuki,WagonR,LXi CNG MT,Hatchback,2023,3,645000,327000,30000,2nd Owner,Non-Accidental,Full Authorized Service History,CNG,Manual,Jaipur,Comprehensive,76,synthetic
+Maruti Suzuki,WagonR,LXi CNG MT,Hatchback,2020,6,645000,255000,80000,1st Owner,Non-Accidental,Full Authorized Service History,CNG,Manual,Jaipur,Comprehensive,36,synthetic
+Maruti Suzuki,WagonR,LXi CNG MT,Hatchback,2019,7,645000,263000,86000,1st Owner,Non-Accidental,Full Authorized Service History,CNG,Manual,Delhi,Zero Dep,43,synthetic
+Maruti Suzuki,WagonR,LXi Petrol,Hatchback,2023,3,555000,316000,22000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,Manual,Mumbai,Comprehensive,83,synthetic
+Maruti Suzuki,WagonR,LXi Petrol,Hatchback,2021,5,555000,260000,57000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,Manual,Pune,Comprehensive,62,synthetic
+Maruti Suzuki,WagonR,LXi Petrol,Hatchback,2019,7,555000,223000,88000,2nd Owner,Non-Accidental,Full Authorized Service History,Petrol,Manual,Pune,Third Party,36,synthetic
+Maruti Suzuki,WagonR,VXi CNG,Hatchback,2024,2,555000,394000,16000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,Manual,Chandigarh,Comprehensive,76,synthetic
+Maruti Suzuki,WagonR,VXi CNG,Hatchback,2024,2,555000,352000,20000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,Manual,Jaipur,Third Party,85,synthetic
+Maruti Suzuki,WagonR,VXi CNG,Hatchback,2018,8,555000,179000,77000,2nd Owner,Non-Accidental,Full Authorized Service History,Petrol,Manual,Jaipur,Comprehensive,39,synthetic
+Maruti Suzuki,WagonR,ZXi Plus 1.2 AGS,Hatchback,2021,5,725000,340000,48000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,AMT,Mumbai,Comprehensive,66,synthetic
+Maruti Suzuki,WagonR,ZXi Plus 1.2 AGS,Hatchback,2022,4,725000,306000,53000,1st Owner,Minor Dent Repaired,Full Authorized Service History,Petrol,AMT,Noida,Zero Dep,57,synthetic
+Maruti Suzuki,WagonR,ZXi Plus 1.2 AGS,Hatchback,2024,2,725000,446000,23000,1st Owner,Non-Accidental,Partial History,Petrol,AMT,Chennai,Third Party,83,synthetic
+Renault,Kwid,Climber AMT,Hatchback,2021,5,645000,299000,62000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,AMT,Lucknow,Zero Dep,54,synthetic
+Renault,Kwid,Climber AMT,Hatchback,2023,3,645000,323000,35000,1st Owner,Minor Rear Bumper Replaced,Full Authorized Service History,Petrol,AMT,Delhi,Comprehensive,73,synthetic
+Renault,Kwid,Climber AMT,Hatchback,2024,2,645000,439000,29000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,AMT,Bengaluru,Comprehensive,76,synthetic
+Renault,Kwid,RXE 1.0 MT,Hatchback,2024,2,469000,328000,16000,1st Owner,Non-Accidental,Partial History,Petrol,Manual,Chandigarh,Comprehensive,76,synthetic
+Renault,Kwid,RXE 1.0 MT,Hatchback,2022,4,469000,247000,38000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,Manual,Delhi,Comprehensive,63,synthetic
+Renault,Kwid,RXE 1.0 MT,Hatchback,2025,1,469000,415000,11000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,Manual,Delhi,Comprehensive,90,synthetic
+Renault,Kwid,RXT 1.0,Hatchback,2025,1,469000,389000,15000,1st Owner,Non-Accidental,Partial History,Petrol,Manual,Chennai,Zero Dep,86,synthetic
+Renault,Kwid,RXT 1.0,Hatchback,2020,6,469000,213000,81000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,Manual,Delhi,Zero Dep,39,synthetic
+Renault,Kwid,RXT 1.0,Hatchback,2018,8,469000,195000,75000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,Manual,Chennai,Comprehensive,41,synthetic
+Skoda,Kushaq,Classic 1.0 TSI MT,Compact SUV,2020,6,1089000,488000,48000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,Manual,Chennai,Comprehensive,55,synthetic
+Skoda,Kushaq,Classic 1.0 TSI MT,Compact SUV,2024,2,1089000,745000,24000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,Manual,Delhi,Comprehensive,72,synthetic
+Skoda,Kushaq,Classic 1.0 TSI MT,Compact SUV,2022,4,1089000,511000,56000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,Manual,Gurugram,Third Party,53,synthetic
+Skoda,Kushaq,Prestige 1.5 TSI DSG,Compact SUV,2019,7,1879000,761000,79000,2nd Owner,Non-Accidental,Full Authorized Service History,Petrol,DCT,Noida,Comprehensive,45,synthetic
+Skoda,Kushaq,Prestige 1.5 TSI DSG,Compact SUV,2022,4,1879000,1046000,35000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,DCT,Jaipur,Comprehensive,71,synthetic
+Skoda,Kushaq,Prestige 1.5 TSI DSG,Compact SUV,2024,2,1879000,1262000,21000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,DCT,Delhi,Zero Dep,90,synthetic
+Skoda,Slavia,Classic 1.0 TSI MT,Sedan,2023,3,1069000,697000,35000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,Manual,Delhi,Comprehensive,62,synthetic
+Skoda,Slavia,Classic 1.0 TSI MT,Sedan,2022,4,1069000,570000,31000,2nd Owner,Non-Accidental,Full Authorized Service History,Petrol,Manual,Noida,Comprehensive,71,synthetic
+Skoda,Slavia,Classic 1.0 TSI MT,Sedan,2023,3,1069000,626000,22000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,Manual,Chennai,Zero Dep,85,synthetic
+Skoda,Slavia,Prestige 1.5 TSI DSG,Sedan,2022,4,1869000,917000,54000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,DCT,Pune,Comprehensive,52,synthetic
+Skoda,Slavia,Prestige 1.5 TSI DSG,Sedan,2023,3,1869000,864000,39000,1st Owner,Non-Accidental,Partial History,Petrol,DCT,Mumbai,Comprehensive,75,synthetic
+Skoda,Slavia,Prestige 1.5 TSI DSG,Sedan,2023,3,1869000,937000,42000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,DCT,Bengaluru,Comprehensive,67,synthetic
+Skoda,Slavia,Style 1.0 TSI MT,Sedan,2022,4,1069000,569000,43000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,Manual,Delhi,Comprehensive,56,synthetic
+Skoda,Slavia,Style 1.0 TSI MT,Sedan,2024,2,1069000,704000,19000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,Manual,Lucknow,Third Party,83,synthetic
+Skoda,Slavia,Style 1.0 TSI MT,Sedan,2025,1,1069000,660000,15000,1st Owner,Minor Scratches,Partial History,Petrol,Manual,Gurugram,Comprehensive,79,synthetic
+Tata,Harrier,Fearless Plus Dark AT,Mid-size SUV,2024,2,2644000,1810000,14000,1st Owner,Non-Accidental,Full Authorized Service History,Diesel,Automatic,Chandigarh,Zero Dep,89,synthetic
+Tata,Harrier,Fearless Plus Dark AT,Mid-size SUV,2021,5,2644000,1250000,41000,3rd Owner,Non-Accidental,Full Authorized Service History,Diesel,Automatic,Mumbai,Zero Dep,72,synthetic
+Tata,Harrier,Fearless Plus Dark AT,Mid-size SUV,2023,3,2644000,1373000,28000,1st Owner,Non-Accidental,Partial History,Diesel,Automatic,Pune,Comprehensive,73,synthetic
+Tata,Harrier,Smart MT,Mid-size SUV,2019,7,1549000,571000,76000,1st Owner,Non-Accidental,Full Authorized Service History,Diesel,Manual,Bengaluru,Comprehensive,40,synthetic
+Tata,Harrier,Smart MT,Mid-size SUV,2019,7,1549000,580000,86000,1st Owner,Non-Accidental,Independent Garage,Diesel,Manual,Pune,Zero Dep,30,synthetic
+Tata,Harrier,Smart MT,Mid-size SUV,2024,2,1549000,1113000,18000,1st Owner,Non-Accidental,Full Authorized Service History,Diesel,Manual,Chennai,Comprehensive,76,synthetic
+Tata,Nexon,Fearless Plus 1.2 DCA,Compact SUV,2023,3,1480000,732000,27000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,DCT,Jaipur,Comprehensive,86,synthetic
+Tata,Nexon,Fearless Plus 1.2 DCA,Compact SUV,2025,1,1480000,1032000,13000,2nd Owner,Non-Accidental,Full Authorized Service History,Petrol,DCT,Gurugram,Third Party,89,synthetic
+Tata,Nexon,Fearless Plus 1.2 DCA,Compact SUV,2025,1,1480000,959000,11000,1st Owner,Non-Accidental,Partial History,Petrol,DCT,Chennai,Comprehensive,87,synthetic
+Tata,Nexon,Fearless Plus 1.5 AMT Diesel,Compact SUV,2021,5,1580000,707000,62000,1st Owner,Non-Accidental,Partial History,Diesel,AMT,Hyderabad,Zero Dep,52,synthetic
+Tata,Nexon,Fearless Plus 1.5 AMT Diesel,Compact SUV,2020,6,1580000,643000,68000,1st Owner,Non-Accidental,Full Authorized Service History,Diesel,AMT,Jaipur,Comprehensive,48,synthetic
+Tata,Nexon,Fearless Plus 1.5 AMT Diesel,Compact SUV,2024,2,1580000,1081000,23000,1st Owner,Non-Accidental,Full Authorized Service History,Diesel,AMT,Jaipur,Comprehensive,80,synthetic
+Tata,Nexon,Smart 1.2 Revotron MT,Compact SUV,2017,9,800000,270000,76000,2nd Owner,Non-Accidental,Full Authorized Service History,Petrol,Manual,Jaipur,Comprehensive,46,synthetic
+Tata,Nexon,Smart 1.2 Revotron MT,Compact SUV,2023,3,800000,375000,44000,1st Owner,Minor Rear Bumper Replaced,Full Authorized Service History,Petrol,Manual,Chandigarh,Zero Dep,63,synthetic
+Tata,Nexon,Smart 1.2 Revotron MT,Compact SUV,2025,1,800000,678000,8000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,Manual,Noida,Comprehensive,85,synthetic
+Tata,Nexon,XMA AMT Diesel,Compact SUV,2022,4,800000,442000,35000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,Manual,Noida,Third Party,80,synthetic
+Tata,Nexon,XMA AMT Diesel,Compact SUV,2024,2,800000,485000,16000,2nd Owner,Non-Accidental,Full Authorized Service History,Petrol,Manual,Chandigarh,Zero Dep,76,synthetic
+Tata,Nexon,XMA AMT Diesel,Compact SUV,2019,7,800000,362000,58000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,Manual,Gurugram,Comprehensive,50,synthetic
+Tata,Nexon,XZ Plus Petrol,Compact SUV,2022,4,800000,413000,34000,1st Owner,Non-Accidental,Partial History,Petrol,Manual,Lucknow,Third Party,74,synthetic
+Tata,Nexon,XZ Plus Petrol,Compact SUV,2023,3,800000,462000,34000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,Manual,Jaipur,Comprehensive,78,synthetic
+Tata,Nexon,XZ Plus Petrol,Compact SUV,2025,1,800000,574000,9000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,Manual,Jaipur,Third Party,90,synthetic
+Tata,Nexon EV,Creative Plus Medium Range,Electric SUV,2025,1,1449000,927000,10000,1st Owner,Non-Accidental,Independent Garage,Electric,Automatic (Single Speed),Chennai,Zero Dep,80,synthetic
+Tata,Nexon EV,Creative Plus Medium Range,Electric SUV,2024,2,1449000,871000,24000,1st Owner,Non-Accidental,Full Authorized Service History,Electric,Automatic (Single Speed),Noida,Comprehensive,77,synthetic
+Tata,Nexon EV,Creative Plus Medium Range,Electric SUV,2024,2,1449000,806000,19000,1st Owner,Non-Accidental,Partial History,Electric,Automatic (Single Speed),Delhi,Comprehensive,78,synthetic
+Tata,Nexon EV,Empowered Plus Long Range 45kWh,Electric SUV,2021,5,1719000,696000,59000,1st Owner,Non-Accidental,Full Authorized Service History,Electric,Automatic (Single Speed),Bengaluru,Comprehensive,58,synthetic
+Tata,Nexon EV,Empowered Plus Long Range 45kWh,Electric SUV,2024,2,1719000,1062000,29000,1st Owner,Non-Accidental,Full Authorized Service History,Electric,Automatic (Single Speed),Jaipur,Comprehensive,76,synthetic
+Tata,Nexon EV,Empowered Plus Long Range 45kWh,Electric SUV,2021,5,1719000,634000,67000,1st Owner,Non-Accidental,Full Authorized Service History,Electric,Automatic (Single Speed),Chennai,Comprehensive,53,synthetic
+Tata,Punch,Accomplished Dazzle,Micro SUV,2021,5,613000,292000,55000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,Manual,Delhi,Zero Dep,57,synthetic
+Tata,Punch,Accomplished Dazzle,Micro SUV,2022,4,613000,340000,29000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,Manual,Jaipur,Comprehensive,73,synthetic
+Tata,Punch,Accomplished Dazzle,Micro SUV,2021,5,613000,303000,53000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,Manual,Chandigarh,Comprehensive,59,synthetic
+Tata,Punch,Adventure AMT,Micro SUV,2025,1,613000,486000,13000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,Manual,Jaipur,Zero Dep,90,synthetic
+Tata,Punch,Adventure AMT,Micro SUV,2020,6,613000,304000,65000,2nd Owner,Non-Accidental,Full Authorized Service History,Petrol,Manual,Lucknow,Comprehensive,45,synthetic
+Tata,Punch,Adventure AMT,Micro SUV,2022,4,613000,373000,32000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,Manual,Noida,Comprehensive,77,synthetic
+Tata,Punch,Adventure iCNG MT,Micro SUV,2020,6,795000,346000,76000,1st Owner,Non-Accidental,Full Authorized Service History,CNG,Manual,Bengaluru,Comprehensive,41,synthetic
+Tata,Punch,Adventure iCNG MT,Micro SUV,2021,5,795000,366000,41000,2nd Owner,Non-Accidental,Partial History,CNG,Manual,Bengaluru,Comprehensive,69,synthetic
+Tata,Punch,Adventure iCNG MT,Micro SUV,2021,5,795000,335000,42000,2nd Owner,Non-Accidental,Partial History,CNG,Manual,Bengaluru,Zero Dep,74,synthetic
+Tata,Punch,Creative Flagship AMT,Micro SUV,2025,1,1020000,763000,9000,2nd Owner,Non-Accidental,Full Authorized Service History,Petrol,AMT,Mumbai,Comprehensive,90,synthetic
+Tata,Punch,Creative Flagship AMT,Micro SUV,2020,6,1020000,386000,88000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,AMT,Lucknow,Comprehensive,38,synthetic
+Tata,Punch,Creative Flagship AMT,Micro SUV,2020,6,1020000,436000,83000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,AMT,Mumbai,Zero Dep,35,synthetic
+Tata,Punch,Pure MT,Micro SUV,2018,8,613000,279000,66000,2nd Owner,Non-Accidental,Full Authorized Service History,Petrol,Manual,Jaipur,Comprehensive,53,synthetic
+Tata,Punch,Pure MT,Micro SUV,2023,3,613000,350000,34000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,Manual,Bengaluru,Third Party,79,synthetic
+Tata,Punch,Pure MT,Micro SUV,2024,2,613000,409000,22000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,Manual,Pune,Third Party,82,synthetic
+Tata,Tiago,XE MT,Hatchback,2021,5,565000,306000,43000,2nd Owner,Non-Accidental,Full Authorized Service History,Petrol,Manual,Bengaluru,Zero Dep,70,synthetic
+Tata,Tiago,XE MT,Hatchback,2018,8,565000,203000,57000,2nd Owner,Minor Rear Bumper Replaced,Full Authorized Service History,Petrol,Manual,Noida,Comprehensive,51,synthetic
+Tata,Tiago,XE MT,Hatchback,2023,3,565000,297000,41000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,Manual,Bengaluru,Zero Dep,58,synthetic
+Tata,Tiago,XT iCNG AMT,Hatchback,2021,5,790000,329000,61000,1st Owner,Non-Accidental,Full Authorized Service History,CNG,AMT,Delhi,Comprehensive,50,synthetic
+Tata,Tiago,XT iCNG AMT,Hatchback,2024,2,790000,517000,23000,1st Owner,Non-Accidental,Full Authorized Service History,CNG,AMT,Mumbai,Comprehensive,78,synthetic
+Tata,Tiago,XT iCNG AMT,Hatchback,2024,2,790000,491000,16000,1st Owner,Non-Accidental,Full Authorized Service History,CNG,AMT,Jaipur,Zero Dep,86,synthetic
+Tata,Tiago,XZ Plus AMT,Hatchback,2022,4,788000,386000,53000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,AMT,Bengaluru,Comprehensive,56,synthetic
+Tata,Tiago,XZ Plus AMT,Hatchback,2024,2,788000,524000,26000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,AMT,Hyderabad,Comprehensive,77,synthetic
+Tata,Tiago,XZ Plus AMT,Hatchback,2022,4,788000,384000,40000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,AMT,Hyderabad,Comprehensive,70,synthetic
+Tata,Tiago EV,XE Medium Range,Electric Hatchback,2023,3,799000,382000,28000,1st Owner,Non-Accidental,Full Authorized Service History,Electric,Automatic (Single Speed),Delhi,Zero Dep,75,synthetic
+Tata,Tiago EV,XE Medium Range,Electric Hatchback,2025,1,799000,562000,14000,2nd Owner,Non-Accidental,Full Authorized Service History,Electric,Automatic (Single Speed),Hyderabad,Comprehensive,86,synthetic
+Tata,Tiago EV,XE Medium Range,Electric Hatchback,2024,2,799000,448000,30000,1st Owner,Non-Accidental,Full Authorized Service History,Electric,Automatic (Single Speed),Chandigarh,Zero Dep,64,synthetic
+Tata,Tiago EV,XZ Plus Tech LUX Long Range,Electric Hatchback,2021,5,1189000,493000,61000,2nd Owner,Non-Accidental,Full Authorized Service History,Electric,Automatic (Single Speed),Pune,Comprehensive,53,synthetic
+Tata,Tiago EV,XZ Plus Tech LUX Long Range,Electric Hatchback,2025,1,1189000,902000,9000,1st Owner,Non-Accidental,Full Authorized Service History,Electric,Automatic (Single Speed),Lucknow,Third Party,90,synthetic
+Tata,Tiago EV,XZ Plus Tech LUX Long Range,Electric Hatchback,2021,5,1189000,487000,36000,1st Owner,Non-Accidental,Full Authorized Service History,Electric,Automatic (Single Speed),Delhi,Comprehensive,67,synthetic
+Toyota,Fortuner,4x2 AT Diesel,Full-size SUV,2021,5,3821000,1718000,40000,1st Owner,Minor Dent Repaired,Full Authorized Service History,Diesel,Automatic,Jaipur,Zero Dep,63,synthetic
+Toyota,Fortuner,4x2 AT Diesel,Full-size SUV,2020,6,3821000,1714000,77000,1st Owner,Non-Accidental,Full Authorized Service History,Diesel,Automatic,Hyderabad,Zero Dep,36,synthetic
+Toyota,Fortuner,4x2 AT Diesel,Full-size SUV,2023,3,3821000,2110000,24000,1st Owner,Non-Accidental,Full Authorized Service History,Diesel,Automatic,Pune,Comprehensive,74,synthetic
+Toyota,Fortuner,4x2 MT Petrol,Full-size SUV,2022,4,3343000,1427000,50000,1st Owner,Minor Rear Bumper Replaced,Full Authorized Service History,Petrol,Manual,Noida,Zero Dep,54,synthetic
+Toyota,Fortuner,4x2 MT Petrol,Full-size SUV,2024,2,3343000,2468000,17000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,Manual,Chennai,Zero Dep,88,synthetic
+Toyota,Fortuner,4x2 MT Petrol,Full-size SUV,2021,5,3343000,1233000,68000,1st Owner,Front Bumper Replaced,Full Authorized Service History,Petrol,Manual,Mumbai,Zero Dep,47,synthetic
+Toyota,Fortuner,4x4 AT Diesel Legender,Full-size SUV,2021,5,4764000,2000000,70000,1st Owner,Non-Accidental,Full Authorized Service History,Diesel,Automatic,Delhi,Comprehensive,57,synthetic
+Toyota,Fortuner,4x4 AT Diesel Legender,Full-size SUV,2023,3,4764000,2267000,45000,1st Owner,Non-Accidental,Full Authorized Service History,Diesel,Automatic,Gurugram,Zero Dep,58,synthetic
+Toyota,Fortuner,4x4 AT Diesel Legender,Full-size SUV,2023,3,4764000,2912000,29000,1st Owner,Non-Accidental,Full Authorized Service History,Diesel,Automatic,Bengaluru,Comprehensive,80,synthetic
+Toyota,Fortuner,4x4 MT Diesel,Full-size SUV,2020,6,3343000,1532000,58000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,Manual,Pune,Comprehensive,50,synthetic
+Toyota,Fortuner,4x4 MT Diesel,Full-size SUV,2022,4,3343000,1814000,35000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,Manual,Pune,Comprehensive,66,synthetic
+Toyota,Fortuner,4x4 MT Diesel,Full-size SUV,2021,5,3343000,1556000,40000,1st Owner,Minor Dent Repaired,Full Authorized Service History,Petrol,Manual,Pune,Comprehensive,73,synthetic
+Toyota,Innova Crysta,2.4 ZX 7S MT,MPV,2024,2,1999000,1340000,21000,2nd Owner,Non-Accidental,Full Authorized Service History,Diesel,Manual,Jaipur,Comprehensive,82,synthetic
+Toyota,Innova Crysta,2.4 ZX 7S MT,MPV,2023,3,1999000,1060000,42000,1st Owner,Non-Accidental,Full Authorized Service History,Diesel,Manual,Hyderabad,Third Party,60,synthetic
+Toyota,Innova Crysta,2.4 ZX 7S MT,MPV,2023,3,1999000,1145000,38000,1st Owner,Non-Accidental,Full Authorized Service History,Diesel,Manual,Chennai,Comprehensive,76,synthetic
+Toyota,Innova Crysta,2.8 GX AT 8S,MPV,2023,3,1999000,1156000,24000,1st Owner,Non-Accidental,Full Authorized Service History,Diesel,Manual,Pune,Comprehensive,80,synthetic
+Toyota,Innova Crysta,2.8 GX AT 8S,MPV,2020,6,1999000,863000,70000,2nd Owner,Non-Accidental,Full Authorized Service History,Diesel,Manual,Noida,Comprehensive,49,synthetic
+Toyota,Innova Crysta,2.8 GX AT 8S,MPV,2023,3,1999000,1184000,31000,1st Owner,Non-Accidental,Partial History,Diesel,Manual,Mumbai,Third Party,87,synthetic
+Toyota,Innova Crysta,GX 7S MT,MPV,2021,5,1999000,873000,66000,1st Owner,Non-Accidental,Full Authorized Service History,Diesel,Manual,Gurugram,Comprehensive,42,synthetic
+Toyota,Innova Crysta,GX 7S MT,MPV,2024,2,1999000,1458000,29000,1st Owner,Non-Accidental,Full Authorized Service History,Diesel,Manual,Pune,Third Party,75,synthetic
+Toyota,Innova Crysta,GX 7S MT,MPV,2022,4,1999000,986000,46000,1st Owner,Non-Accidental,Full Authorized Service History,Diesel,Manual,Delhi,Comprehensive,63,synthetic
+Toyota,Innova Crysta,ZX 7S MT,MPV,2023,3,2630000,1373000,37000,2nd Owner,Non-Accidental,Independent Garage,Diesel,Manual,Gurugram,Third Party,79,synthetic
+Toyota,Innova Crysta,ZX 7S MT,MPV,2024,2,2630000,1801000,18000,2nd Owner,Non-Accidental,Full Authorized Service History,Diesel,Manual,Bengaluru,Comprehensive,77,synthetic
+Toyota,Innova Crysta,ZX 7S MT,MPV,2018,8,2630000,855000,108000,2nd Owner,Non-Accidental,Full Authorized Service History,Diesel,Manual,Chandigarh,Zero Dep,30,synthetic
+Toyota,Innova Hycross,GX 7S CVT,MPV,2024,2,1977000,1112000,22000,2nd Owner,Non-Accidental,Full Authorized Service History,Petrol,CVT,Pune,Comprehensive,83,synthetic
+Toyota,Innova Hycross,GX 7S CVT,MPV,2021,5,1977000,854000,71000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,CVT,Bengaluru,Comprehensive,45,synthetic
+Toyota,Innova Hycross,GX 7S CVT,MPV,2016,10,1977000,647000,92000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,CVT,Chennai,Comprehensive,32,synthetic
+Toyota,Innova Hycross,ZX (O) Hybrid e-CVT 7S,MPV,2024,2,3098000,2212000,15000,1st Owner,Non-Accidental,Full Authorized Service History,Hybrid,e-CVT,Bengaluru,Comprehensive,84,synthetic
+Toyota,Innova Hycross,ZX (O) Hybrid e-CVT 7S,MPV,2023,3,3098000,1785000,27000,2nd Owner,Non-Accidental,Full Authorized Service History,Hybrid,e-CVT,Delhi,Comprehensive,85,synthetic
+Toyota,Innova Hycross,ZX (O) Hybrid e-CVT 7S,MPV,2024,2,3098000,2374000,20000,1st Owner,Non-Accidental,Full Authorized Service History,Hybrid,e-CVT,Hyderabad,Zero Dep,86,synthetic
+Toyota,Urban Cruiser Hyryder,E NeoDrive MT,Compact SUV,2025,1,1114000,861000,11000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,Manual,Hyderabad,Comprehensive,87,synthetic
+Toyota,Urban Cruiser Hyryder,E NeoDrive MT,Compact SUV,2024,2,1114000,809000,25000,1st Owner,Non-Accidental,Partial History,Petrol,Manual,Gurugram,Comprehensive,62,synthetic
+Toyota,Urban Cruiser Hyryder,E NeoDrive MT,Compact SUV,2022,4,1114000,562000,49000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,Manual,Mumbai,Comprehensive,62,synthetic
+Toyota,Urban Cruiser Hyryder,S CNG MT,Compact SUV,2018,8,1371000,471000,104000,1st Owner,Non-Accidental,Full Authorized Service History,CNG,Manual,Chandigarh,Comprehensive,30,synthetic
+Toyota,Urban Cruiser Hyryder,S CNG MT,Compact SUV,2020,6,1371000,482000,89000,2nd Owner,Non-Accidental,Full Authorized Service History,CNG,Manual,Bengaluru,Zero Dep,34,synthetic
+Toyota,Urban Cruiser Hyryder,S CNG MT,Compact SUV,2018,8,1371000,493000,71000,1st Owner,Non-Accidental,Full Authorized Service History,CNG,Manual,Mumbai,Comprehensive,48,synthetic
+Toyota,Urban Cruiser Hyryder,V Hybrid e-CVT,Compact SUV,2023,3,1999000,1164000,22000,1st Owner,Non-Accidental,Full Authorized Service History,Hybrid,e-CVT,Mumbai,Comprehensive,90,synthetic
+Toyota,Urban Cruiser Hyryder,V Hybrid e-CVT,Compact SUV,2025,1,1999000,1767000,14000,1st Owner,Non-Accidental,Full Authorized Service History,Hybrid,e-CVT,Gurugram,Comprehensive,86,synthetic
+Toyota,Urban Cruiser Hyryder,V Hybrid e-CVT,Compact SUV,2025,1,1999000,1658000,10000,1st Owner,Non-Accidental,Full Authorized Service History,Hybrid,e-CVT,Hyderabad,Comprehensive,90,synthetic
+Volkswagen,Virtus,Comfortline 1.0 TSI MT,Sedan,2020,6,1156000,521000,63000,3rd Owner,Non-Accidental,Full Authorized Service History,Petrol,Manual,Chennai,Comprehensive,55,synthetic
+Volkswagen,Virtus,Comfortline 1.0 TSI MT,Sedan,2024,2,1156000,634000,24000,1st Owner,Non-Accidental,Partial History,Petrol,Manual,Pune,Zero Dep,79,synthetic
+Volkswagen,Virtus,Comfortline 1.0 TSI MT,Sedan,2023,3,1156000,647000,21000,2nd Owner,Non-Accidental,Full Authorized Service History,Petrol,Manual,Hyderabad,Comprehensive,81,synthetic
+Volkswagen,Virtus,GT Plus 1.5 TSI DSG,Sedan,2021,5,1940000,836000,75000,1st Owner,Non-Accidental,Partial History,Petrol,DCT,Bengaluru,Third Party,50,synthetic
+Volkswagen,Virtus,GT Plus 1.5 TSI DSG,Sedan,2023,3,1940000,997000,34000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,DCT,Mumbai,Comprehensive,71,synthetic
+Volkswagen,Virtus,GT Plus 1.5 TSI DSG,Sedan,2025,1,1940000,1593000,9000,1st Owner,Non-Accidental,Full Authorized Service History,Petrol,DCT,Noida,Third Party,90,synthetic
